@@ -76,6 +76,11 @@ import bottom_of_the_well from './data/locations/bottom_of_the_well.json';
 import ice_cavern from './data/locations/ice_cavern.json';
 import gerudo_training_ground from './data/locations/gerudo_training_ground.json';
 import ganons_castle from './data/locations/ganons_castle.json';
+import chapel_of_anticipation from './data/locations/chapel_of_anticipation.json';
+import limgrave from './data/locations/limgrave.json';
+import limgrave_caves from './data/locations/limgrave_caves.json';
+import stranded_graveyard from './data/locations/stranded_graveyard.json';
+import stormhill from './data/locations/stormhill.json';
 
 
 import devr from './data/versions/dev6.0.41r-1.json';
@@ -893,7 +898,8 @@ class Tracker extends React.Component {
             lost_woods, market, sacred_forest_meadow, spawn_points, warp_songs,
             zora_fountain, zora_river, zoras_domain, deku_tree, dodongos_cavern, jabu_jabus_belly,
             forest_temple, fire_temple, water_temple, shadow_temple, spirit_temple,
-            bottom_of_the_well, ice_cavern, gerudo_training_ground, ganons_castle);
+            bottom_of_the_well, ice_cavern, gerudo_training_ground, ganons_castle,
+            chapel_of_anticipation, limgrave, limgrave_caves, stormhill, stranded_graveyard);
         let allAreas = !!(ls.get('AllAreas')) ? ls.get('AllAreas') : this.addReverseEntrances(areaJSON);
         let allEntrances = !!(ls.get('AllEntrances')) ? ls.get('AllEntrances') : merge({}, this.categorizeEntrances(allAreas));
         this.findVisibleLocations(settings, allAreas);
@@ -1047,7 +1053,8 @@ class Tracker extends React.Component {
             lost_woods, market, sacred_forest_meadow, spawn_points, warp_songs,
             zora_fountain, zora_river, zoras_domain, deku_tree, dodongos_cavern, jabu_jabus_belly,
             forest_temple, fire_temple, water_temple, shadow_temple, spirit_temple,
-            bottom_of_the_well, ice_cavern, gerudo_training_ground, ganons_castle);
+            bottom_of_the_well, ice_cavern, gerudo_training_ground, ganons_castle,
+           chapel_of_anticipation, limgrave, limgrave_caves, stormhill, stranded_graveyard);
         let allAreas = this.addReverseEntrances(areaJSON);
         let allEntrances = merge({}, this.categorizeEntrances(allAreas));
         this.findVisibleLocations(settings, allAreas);
@@ -1471,6 +1478,7 @@ class Tracker extends React.Component {
             entrances = merge(entrances, {"overworldoneway": [], "overworldoneway_reverse": [], "overworldoneway_decoupled": []});
         }
         entrances = merge(entrances, mixedpool);
+        console.log(entrances);
         return entrances;
     }
 
