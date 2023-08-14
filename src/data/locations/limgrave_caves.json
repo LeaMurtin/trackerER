@@ -577,7 +577,7 @@
 			"index": 57
         },
 		"Mad Pumpkin Head's arena front -> before Mad Pumpkin Head's arena": {
-            "area": "Waypoint Ruins",
+            "area": "Limgrave Waypoint Ruins",
             "reverse": "before Mad Pumpkin Head's arena -> Mad Pumpkin Head's arena front",
             "oneWay": false,
             "oneWayArea": "",
@@ -601,7 +601,7 @@
 			"index": 47
         },
 		"Mad Pumpkin Head's arena back -> Sellen's Room": {
-            "area": "Waypoint Ruins",
+            "area": "Limgrave Waypoint Ruins",
             "reverse": "Sellen's Room -> Mad Pumpkin Head's arena back",
             "oneWay": false,
             "oneWayArea": "",
@@ -625,7 +625,7 @@
 			"index": 48
         },
         "Sellen's Room -> Mad Pumpkin Head's arena": {
-            "area": "Waypoint Ruins",
+            "area": "Limgrave Waypoint Ruins",
             "reverse": "Mad Pumpkin Head's arena -> Sellen's Room",
             "oneWay": false,
             "oneWayArea": "",
