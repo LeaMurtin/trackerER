@@ -315,90 +315,89 @@
 
 ---------------ROUNDTABLE HOLD------------------------------
 
-28. Roundtable Hold
-- in Roundtable Hold in the main room
-29. Roundtable Hold Balcony
-- in Roundtable Hold at the balcony overlooking the first floor
+ Roundtable Hold
+176. in Roundtable Hold in the main room
+ Roundtable Hold Balcony
+177. in Roundtable Hold at the balcony overlooking the first floor
 
 
 -------------------------CAELID---------------------------
 
-75. Caelid Overworld
-- at the entrance to Minor Erdtree Catacombs
-- at the entrance to Caelid Catacombs
-- at the entrance to Gael Tunnel Start
-- at the entrance to Gaol Cave, with Stonesword Key
-- before Mad Pumpkin Heads' arena in Caelem Ruins
-- before Nox Duo's arena in Sellia Chair-Crypt
-- at the entrance to Sellia Crystal Tunnel
-- at the entrance to Abandoned Cave
-- using the sending gate atop Fort Gael
-- using either sending gate in Impassable Greatbridge
+ 			Caelid Overworld
+			178. at the entrance to Minor Erdtree Catacombs
+			179. at the entrance to Caelid Catacombs
+			180. at the entrance to Gael Tunnel Start
+			181. at the entrance to Gaol Cave, with Stonesword Key
+			182- before Mad Pumpkin Heads' arena in Caelem Ruins
+			183- before Nox Duo's arena in Sellia Chair-Crypt
+			184- at the entrance to Sellia Crystal Tunnel
+			185- at the entrance to Abandoned Cave
+			186- using the sending gate atop Fort Gael
+			187- using either sending gate in Impassable Greatbridge
 
-76. Caelid - Minor Erdtree Catacombs
-- at the entrance from Caelid
-- before Erdtree Burial Watchdogs' arena
-77. Caelid Catacombs
-- at the entrance from Caelid
-- before Cemetery Shade's arena
-78. Caelid - Gael Tunnel Start
-- at the entrance from Caelid
-79. Caelid - Gaol Cave
-- at the entrance from Caelid
-- before Frenzied Duelist's arena
-80. Caelid - Caelem Ruins - Mad Pumpkin Heads
-- at the front of Mad Pumpkin Heads' arena
-- at the back of Mad Pumpkin Heads' arena
-81. Caelid - Sellia Chair-Crypt - Nox Duo
-- at the front of Nox Duo's arena
-- at the back of Nox Duo's arena
-82. Caelid - Sellia Crystal Tunnel
-- at the entrance from Caelid
-- before Fallingstar Beast's arena
-83. Caelid - Abandoned Cave Start
-- at the entrance from Caelid
-84. Caelid - Sellia Chair-Crypt - After Boss
-- after Nox Duo's arena in Sellia Chair-Crypt
-85. Caelid - Caelem Ruins - After Boss
-- after Mad Pumpkin Heads' arena in Caelem Ruins
+			Caelid Greatjar
+			188- at the Deep Siofra Well
+			189- at the entrance to Caelid Colosseum
 
-139. Divine Tower of Caelid - Godskin Apostle
-- at the front of Godskin Apostle's arena
-- at the back of Godskin Apostle's arena
-140. Divine Tower of Caelid Interior
-- at the door to Caelid Divine Tower's Two Fingers
-141. Divine Tower of Caelid - After Godskin Apostle
-- after Godskin Apostle's arena
 
-68. Caelid Greatjar
-- at the Deep Siofra Well
-- at the entrance to Caelid Colosseum
+ 			Caelid - Minor Erdtree Catacombs
+			190- at the entrance from Caelid
+			191- before Erdtree Burial Watchdogs' arena
+			 Caelid - Minor Erdtree Catacombs - Erdtree Burial Watchdogs
+			192- at the front of Erdtree Burial Watchdogs' arena
 
-238. Caelid - Minor Erdtree Catacombs - Erdtree Burial Watchdogs
-- at the front of Erdtree Burial Watchdogs' arena
-239. Caelid Catacombs - Cemetery Shade
-- at the front of Cemetery Shade's arena
-240. Caelid - War-Dead Catacombs - Putrid Tree Spirit
-- at the front of Putrid Tree Spirit's arena
-258. Caelid - Abandoned Cave
-- before Cleanrot Knights' arena
-259. Caelid - Abandoned Cave - Cleanrot Knights
-- at the front of Cleanrot Knights' arena
-260. Caelid - Gaol Cave - Above Boss
-- at the dropdown before Frenzied Duelist's arena
-261. Caelid - Gaol Cave - Frenzied Duelist
-- at the back of Frenzied Duelist's arena
-262. Caelid - After Gaol Cave
-- after Frenzied Duelist's arena
-269. Caelid - Gael Tunnel
-- before Magma Wyrm's arena
-270. Caelid - Gael Tunnel - Magma Wyrm
-- at the front of Magma Wyrm's arena
-271. Caelid - Sellia Crystal Tunnel - Fallingstar Beast
-- at the front of Fallingstar Beast's arena
- Caelid - Rear Gael Tunnel
-- at the Gael Tunnel rear exit, North of the Third Church of Marika
+ 			Caelid Catacombs
+			193- at the entrance from Caelid
+			194- before Cemetery Shade's arena
+ 			Caelid Catacombs - Cemetery Shade
+			195- at the front of Cemetery Shade's arena
 
+			Caelid - Gael Tunnel Start
+			196. at the entrance from Caelid
+			Caelid - Gael Tunnel
+			197- before Magma Wyrm's arena
+			Caelid - Gael Tunnel - Magma Wyrm
+			198- at the front of Magma Wyrm's arena
+			Caelid - Rear Gael Tunnel
+			199- at the Gael Tunnel rear exit, North of the Third Church of Marika
+
+ 			Caelid - Gaol Cave
+			200- at the entrance from Caelid
+			201- before Frenzied Duelist's arena
+ 			Caelid - Gaol Cave - Above Boss
+			202- at the dropdown before Frenzied Duelist's arena
+			Caelid - Gaol Cave - Frenzied Duelist
+			203- at the back of Frenzied Duelist's arena
+			Caelid - After Gaol Cave
+			204- after Frenzied Duelist's arena
+
+			Caelid - Caelem Ruins - Mad Pumpkin Heads
+			205- at the front of Mad Pumpkin Heads' arena
+			206- at the back of Mad Pumpkin Heads' arena
+			Caelid - Caelem Ruins - After Boss
+			216- after Mad Pumpkin Heads' arena in Caelem Ruins
+
+			Caelid - Sellia Chair-Crypt - Nox Duo
+			207- at the front of Nox Duo's arena
+			208- at the back of Nox Duo's arena
+			Caelid - Sellia Chair-Crypt - After Boss
+			215- after Nox Duo's arena in Sellia Chair-Crypt
+
+			Caelid - Sellia Crystal Tunnel
+			209- at the entrance from Caelid
+			210- before Fallingstar Beast's arena
+			Caelid - Sellia Crystal Tunnel - Fallingstar Beast
+			211- at the front of Fallingstar Beast's arena
+
+			Caelid - Abandoned Cave Start
+			212- at the entrance from Caelid
+			Caelid - Abandoned Cave
+			213- before Cleanrot Knights' arena
+			Caelid - Abandoned Cave - Cleanrot Knights
+			214- at the front of Cleanrot Knights' arena
+
+
+ 
 
 --------------------CASTLE REDMANE-----------------------
 
@@ -419,6 +418,8 @@
 138. Caelid - War-Dead Catacombs
 - at the entrance from Radahn's arena
 - before Putrid Tree Spirit's arena
+240. Caelid - War-Dead Catacombs - Putrid Tree Spirit
+- at the front of Putrid Tree Spirit's arena
 
 
 ---------------DRAGONBARROW-------------------------
@@ -437,6 +438,15 @@
 - at the right exit to Dragonbarrow, facing north
 - before Godskin Apostle's arena
 - up the stairs to Caelid Divine Tower's Two Fingers
+
+Divine Tower of Caelid - Godskin Apostle
+217- at the front of Godskin Apostle's arena
+218- at the back of Godskin Apostle's arena
+ Divine Tower of Caelid Interior
+219- at the door to Caelid Divine Tower's Two Fingers
+ Divine Tower of Caelid - After Godskin Apostle
+220- after Godskin Apostle's arena
+
 88. Dragonbarrow - Sellia Hideaway
 - at the entrance from Dragonbarrow
 - before Putrid Crystalians' arena

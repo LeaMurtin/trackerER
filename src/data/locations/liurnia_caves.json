@@ -96,15 +96,15 @@
             "shuffled": true,
 			"index": 161
         },
-		"Magma Wyrm's arena back -> Altus Plateau": {
+		"Magma Wyrm Makar's arena back -> Altus Plateau": {
             "area": "Liurnia Ruin-Strewn Precipice",
-            "reverse": "Altus Plateau -> Magma Wyrm's arena back",
+            "reverse": "Altus Plateau -> Magma Wyrm Makar's arena back",
             "oneWay": false,
             "oneWayArea": "",
             "connector": "",
             "isReverse": false,
-            "alias": "Magma Wyrm's arena Back",
-            "reverseAlias": "Magma Wyrm",
+            "alias": "Magma Wyrm Makar's arena Back",
+            "reverseAlias": "Magma Wyrm Makar",
             "tag": "",
             "tagRep": false,
             "tagRules": [],
