@@ -478,54 +478,60 @@ Divine Tower of Caelid - Godskin Apostle
 93. Altus Plateau - Sainted Hero's Grave
 - at the entrance from Altus Plateau
 - before Ancient Hero of Zamor's arena
+225. Altus Plateau - Sainted Hero's Grave - Ancient Hero of Zamor
+- at the front of Ancient Hero of Zamor's arena
+
 94. Altus Plateau - Unsightly Catacombs
 - at the entrance from Altus Plateau
 - before Perfumer Tricia and Misbegotten Warrior's arena
+229. Altus Plateau - Unsightly Catacombs - Perfumer Tricia and Misbegotten Warrior
+- at the front of Perfumer Tricia and Misbegotten Warrior's arena
+
 95. Old Altus Tunnel
 - at the entrance from Altus Plateau
 - before Stonedigger Troll's arena
+267. Old Altus Tunnel - Stonedigger Troll
+- at the front of Stonedigger Troll's arena
+
 96. Altus Plateau - Sage's Cave
 - at the entrance from Altus Plateau
 - before Black Knife Assassin's arena
 - before Necromancer Garris' arena
+256. Altus Plateau - Sage's Cave - Black Knife Assassin
+- at the front of Black Knife Assassin's arena
+257. Altus Plateau - Sage's Cave - Necromancer Garris
+- at the front of Necromancer Garris' arena
+
 97. Altus Plateau - Lux Ruins - Demi-Human Queen Gilika
 - at the front of Demi-Human Queen Gilika's arena
 - at the back of Demi-Human Queen Gilika's arena
+101. Altus Plateau - Lux Ruins - After Boss
+- after Demi-Human Queen Gilika's arena in Lux Ruins
+
 98. Altus Plateau - Writheblood Ruins - Sanguine Noble
 - at the front of Sanguine Noble's arena
 - at the back of Sanguine Noble's arena
+102. Altus Plateau - Writheblood Ruins - After Boss
+- after Sanguine Noble's arena in Writheblood Ruins
+
 99. Altus Plateau - Perfumer's Grotto
 - at the entrance from Altus Plateau
 - before Omenkiller and Miranda the Blighted Bloom's arena
+255. Altus Plateau - Perfumer's Grotto - Omenkiller and Miranda the Blighted Bloom
+- at the front of Omenkiller and Miranda the Blighted Bloom's arena
+
 100. Altus Tunnel
 - at the entrance from Altus Plateau
 - before Crystalian Duo's arena
-101. Altus Plateau - Lux Ruins - After Boss
-- after Demi-Human Queen Gilika's arena in Lux Ruins
-102. Altus Plateau - Writheblood Ruins - After Boss
-- after Sanguine Noble's arena in Writheblood Ruins
-173. Divine Tower of West Altus
-- after Sealed Tunnel boss
+268. Altus Tunnel - Crystalian Duo
+- at the front of Crystalian Duo's arena
+
 
 103. Shaded Castle
 - before Elemer of the Briar's arena
 104. Shaded Castle - Elemer of the Briar
 - at the front of Elemer of the Briar's arena
 
-225. Altus Plateau - Sainted Hero's Grave - Ancient Hero of Zamor
-- at the front of Ancient Hero of Zamor's arena
-229. Altus Plateau - Unsightly Catacombs - Perfumer Tricia and Misbegotten Warrior
-- at the front of Perfumer Tricia and Misbegotten Warrior's arena
-255. Altus Plateau - Perfumer's Grotto - Omenkiller and Miranda the Blighted Bloom
-- at the front of Omenkiller and Miranda the Blighted Bloom's arena
-256. Altus Plateau - Sage's Cave - Black Knife Assassin
-- at the front of Black Knife Assassin's arena
-257. Altus Plateau - Sage's Cave - Necromancer Garris
-- at the front of Necromancer Garris' arena
-267. Old Altus Tunnel - Stonedigger Troll
-- at the front of Stonedigger Troll's arena
-268. Altus Tunnel - Crystalian Duo
-- at the front of Crystalian Duo's arena
 
 
 ------------------CAPITAL OUTSKIRTS---------------------
@@ -538,22 +544,27 @@ Divine Tower of Caelid - Godskin Apostle
 
 106. Capital Outskirts - Capital Rampart
 - after Draconic Tree Sentinel
+
 107. Capital Outskirts - Auriza Hero's Grave
 - at the entrance from Capital Outskirts
 - before Crucible Knight Ordovis' arena
+227. Capital Outskirts - Auriza Hero's Grave - Crucible Knight Ordovis
+- at the front of Crucible Knight Ordovis' arena
+
 108. Capital Outskirts - Sealed Tunnel
 - at the entrance from Capital Outskirts
-109. Capital Outskirts - Auriza Side Tomb
-- at the entrance from Capital Outskirts
-- before Grave Warden Duelist's arena
-- using the chest in the actual entrance
 171. Capital Outskirts - Sealed Tunnel Before Boss
 - before Onyx Lord's arena
 172. Capital Outskirts - Sealed Tunnel - Onyx Lord
 - at the front of Onyx Lord's arena
 - at the back of Onyx Lord's arena
-227. Capital Outskirts - Auriza Hero's Grave - Crucible Knight Ordovis
-- at the front of Crucible Knight Ordovis' arena
+173. Divine Tower of West Altus
+- after Sealed Tunnel boss
+
+109. Capital Outskirts - Auriza Side Tomb
+- at the entrance from Capital Outskirts
+- before Grave Warden Duelist's arena
+- using the chest in the actual entrance
 230. Capital Outskirts - Auriza Side Tomb - Grave Warden Duelist
 - at the front of Grave Warden Duelist's arena
 231. Capital Outskirts - Auriza Side Tomb - Main First Floor
@@ -597,22 +608,26 @@ Divine Tower of Caelid - Godskin Apostle
 
 115. Leyndell - Divine Bridge
 - using the sending gate after unlocking the elevator in Leyndell or unlocking Ashen Divine Bridge
+
 116. Leyndell - Erdtree Sanctuary Stairs
 - outside of Godfrey's arena at the stairs which go down to the Marika statue
 117. Leyndell - Behind Erdtree Sanctuary
 - outside of Godfrey's arena at the leftmost back exit, the one without the branch
 - outside of Godfrey's arena at the rightmost back exit, the one with the branch
 - outside of Godfrey's arena at the center back exit
+
+119. Leyndell - Erdtree Sanctuary Treasure
+- outside of Godfrey's arena with a treasure item
+
 118. Leyndell - Queen's Bedchamber
 - outside of Godfrey's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
 - before Morgott's arena
-119. Leyndell - Erdtree Sanctuary Treasure
-- outside of Godfrey's arena with a treasure item
 120. Leyndell - Elden Throne
 - at the front of Morgott's arena
 - at the back of Morgott's arena
 121. Leyndell - Erdtree Entrance
 - the path up to the Erdtree
+
 122. Leyndell - before Divine Tower
 - at the base of the elevator to the Divine Tower of East Altus
 123. Divine Tower of East Altus Start
@@ -637,20 +652,23 @@ Divine Tower of Caelid - Godskin Apostle
 - in Gideon's arena at the Southwest exit with a shortcut ladder behind it
 - in Gideon's arena at the Southeast exit with treasure behind it
 - in Gideon's arena at the center East exit
-211. Ashen Leyndell - before Divine Tower
-- at the base of the elevator to the Divine Tower of East Altus
+
 212. Ashen Leyndell - South of Erdtree Sanctuary
 - at the side entrance to Gideon's arena from the branches
 213. Ashen Leyndell - Behind Erdtree Sanctuary
 - outside of Gideon's arena at the leftmost back exit, the one without the branch
 - outside of Gideon's arena at the rightmost back exit, the one with the branch
 - outside of Gideon's arena at the center back exit
+
 214. Ashen Leyndell - Queen's Bedchamber
 - outside of Gideon's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
 - before Hoarah Loux's arena
 215. Ashen Leyndell - Elden Throne
 - at the front of Hoarah Loux's arena
 - at the back of Hoarah Loux's arena
+
+211. Ashen Leyndell - before Divine Tower
+- at the base of the elevator to the Divine Tower of East Altus
 
 
 ----------------SUBTERRANEAN SHUNNING-GROUNDS------------------
@@ -686,6 +704,7 @@ Divine Tower of Caelid - Godskin Apostle
 - using the sending gate after the Siofra River Bank grace
 - using the sending gate after the Worshippers' Woods grace
 - using the sending gate atop rubble before the Worshippers' Woods grace
+
 69. Siofra River before Ancestor Spirit
 - before Ancestor Spirit's arena
 70. Ancestor Spirit
@@ -694,15 +713,17 @@ Divine Tower of Caelid - Godskin Apostle
 47. Ainsel River Downstream
 - at the top of the Ainsel River Well
 - before Dragonkin of Nokstella's arena
+
 71. Dragonkin Soldier of Nokstella
 - at the front of Dragonkin of Nokstella's arena
 - at the back of Dragonkin of Nokstella's arena
+74. After Dragonkin Soldier of Nokstella
+- after Dragonkin of Nokstella
+
 72. Above Ainsel River Downstream
 - after the tunnel from Ainsel River Main
 73. Ainsel River Main
 - in the tunnel leading to Ainsel River Downstream
-74. After Dragonkin Soldier of Nokstella
-- after Dragonkin of Nokstella
 
 12. Nokron from Limgrave
 - at the start of Nokron from Limgrave
@@ -714,8 +735,15 @@ Divine Tower of Caelid - Godskin Apostle
 144. Nokron - Ancestral Woods
 - after Mimic Tear's arena
 - using Horned Remains in Nokron
+
+149. Before Regal Ancestor Spirit
+- before Regal Ancestor Spirit's arena
+150. Regal Ancestor Spirit
+- at the front of Regal Ancestor Spirit's arena
+
 145. Nokron - Night's Sacred Grounds
 - using the sending gate before the Fingerslayer Blade chest
+
 146. Nokron - Aqueduct-Facing Cliffs
 - before Valiant Gargoyles' arena
 147. Valiant Gargoyles
@@ -724,10 +752,7 @@ Divine Tower of Caelid - Godskin Apostle
 - resting in the coffin after defeating the boss
 148. Nokron - Aqueduct-Facing Cliffs Room
 - after Valiant Gargoyles in the small room next to the main entrance
-149. Before Regal Ancestor Spirit
-- before Regal Ancestor Spirit's arena
-150. Regal Ancestor Spirit
-- at the front of Regal Ancestor Spirit's arena
+
 
 
 ------------------DEEPROOT DEPTHS--------------------------
