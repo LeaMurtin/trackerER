@@ -475,46 +475,104 @@ Shaded Castle - Elemer of the Briar
 
 ------------------CAPITAL OUTSKIRTS---------------------
 
-116. Divine Tower of West Altus
-- after Sealed Tunnel boss
+-- 04201-04205. missing
 
-113. Capital Outskirts - Sealed Tunnel
-- at the entrance from Capital Outskirts
-114. Capital Outskirts - Sealed Tunnel Before Boss
-- before Onyx Lord's arena
-115. Capital Outskirts - Sealed Tunnel - Onyx Lord
-- at the front of Onyx Lord's arena
-- at the back of Onyx Lord's arena
-170. Capital Outskirts - Auriza Hero's Grave
-- before Crucible Knight Ordovis' arena
-- at the entrance from Capital Outskirts
-171. Capital Outskirts - Auriza Hero's Grave - Crucible Knight Ordovis
-- at the front of Crucible Knight Ordovis' arena
-176. Capital Outskirts - Auriza Side Tomb
-- before Grave Warden Duelist's arena
-- at the entrance from Capital Outskirts
-- using the chest in the actual entrance
-177. Capital Outskirts - Auriza Side Tomb - Grave Warden Duelist
-- at the front of Grave Warden Duelist's arena
-178. Capital Outskirts - Auriza Side Tomb - Main First Floor
-- using the chest before the main hallway
-- using the chest at the end of the main hallway
-- using the chest behind the illusory wall
-179. Capital Outskirts - Auriza Side Tomb - Main Second Floor
-- using the chest overlooking the main hallway
-- using the chest up the ladder from the main second floor
-180. Capital Outskirts - Auriza Side Tomb - Main Jail
-- using the chest in the main jail
-181. Capital Outskirts - Auriza Side Tomb - Dupe Entrance
-- using the chest in the duplicate entrance area
-182. Capital Outskirts - Auriza Side Tomb - Dupe First Floor
-- using the chest at the end of the duplicate hallway
-- using the chest behind the illusory wall
-183. Capital Outskirts - Auriza Side Tomb - Dupe Second Floor
-- using the chest overlooking the duplicate hallway
-184. Capital Outskirts - Auriza Side Tomb - Dupe Jail and Lever
-- using the chest in the duplicate jail
+Capital Outskirts - Sealed Tunnel
+04206. at the entrance from Capital Outskirts
+Capital Outskirts - Sealed Tunnel Before Boss
+04207. before Onyx Lord's arena
+Capital Outskirts - Sealed Tunnel - Onyx Lord
+04208. at the front of Onyx Lord's arena
+04209. at the back of Onyx Lord's arena
+Divine Tower of West Altus
+04210. after Sealed Tunnel boss
 
+Capital Outskirts - Auriza Hero's Grave
+04211. at the entrance from Capital Outskirts
+04212. before Crucible Knight Ordovis' arena
+Capital Outskirts - Auriza Hero's Grave - Crucible Knight Ordovis
+04213. at the front of Crucible Knight Ordovis' arena
+
+Capital Outskirts - Auriza Side Tomb
+			04214. at the entrance from Capital Outskirts
+			04215. before Grave Warden Duelist's arena
+04216. using the chest in the actual entrance
+			Capital Outskirts - Auriza Side Tomb - Grave Warden Duelist
+			04217. at the front of Grave Warden Duelist's arena
+
+ Capital Outskirts - Auriza Side Tomb - Main First Floor
+04218. using the chest before the main hallway
+04219. using the chest at the end of the main hallway
+04220. using the chest behind the illusory wall
+ Capital Outskirts - Auriza Side Tomb - Main Second Floor
+04221. using the chest overlooking the main hallway
+04222. using the chest up the ladder from the main second floor
+ Capital Outskirts - Auriza Side Tomb - Main Jail
+04223. using the chest in the main jail
+
+Capital Outskirts - Auriza Side Tomb - Dupe Entrance
+04224. using the chest in the duplicate entrance area
+ Capital Outskirts - Auriza Side Tomb - Dupe First Floor
+04225. using the chest at the end of the duplicate hallway
+04226. using the chest behind the illusory wall
+ Capital Outskirts - Auriza Side Tomb - Dupe Second Floor
+04227. using the chest overlooking the duplicate hallway
+ Capital Outskirts - Auriza Side Tomb - Dupe Jail and Lever
+04228. using the chest in the duplicate jail
+
+
+----------------------MT GELMIR-----------------------
+
+102. Before Volcano Manor Entrance
+- at the doorway from Mt. Gelmir
+164. Mt. Gelmir - Wyndham Catacombs
+- before Erdtree Burial Watchdog's arena
+- at the entrance from Mt. Gelmir
+165. Mt. Gelmir - Wyndham Catacombs - Erdtree Burial Watchdog
+- at the front of Erdtree Burial Watchdog's arena
+168. Mt. Gelmir - Gelmir Hero's Grave
+- before Red Wolf of the Champion's arena
+- at the entrance from Mt. Gelmir
+169. Mt. Gelmir - Gelmir Hero's Grave - Red Wolf of the Champion
+- at the front of Red Wolf of the Champion's arena
+208. Mt. Gelmir - Seethewater Cave
+- before Kindred of Rot Duo's arena
+- at the entrance from Mt. Gelmir
+209. Mt. Gelmir - Seethewater Cave - Kindred of Rot Duo
+- at the front of Kindred of Rot Duo's arena
+210. Mt. Gelmir - Volcano Cave
+- before Demi-Human Queen Margot's arena
+- at the entrance from Mt. Gelmir
+211. Mt. Gelmir - Volcano Cave - Demi-Human Queen Margot
+- at the front of Demi-Human Queen Margot's arena
+
+
+----------------VOLCANO MANOR---------------------
+
+103. Volcano Manor Drawing Room
+- at the end of the dark hallway leading to Prison Town
+104. Volcano Manor Prison Town Church
+- behind the altar coming from the manor
+105. Volcano Manor Prison Town
+- before Abductor Virgins' arena. it can be reached from main town dropping down outside Temple of Eiglay
+- before Godskin Noble's arena
+106. Volcano Manor - Abductor Virgins
+- at the front of Abductor Virgins' arena
+- at the back of Abductor Virgins' arena
+107. Volcano Manor - Temple of Eiglay
+- at the front of Godskin Noble's arena
+- at the back left of Godskin Noble's arena
+108. Volcano Manor - Temple of Eiglay Shortcut Elevator
+- after Godskin Noble's arena to the back left, down the shortcut elevator
+109. Volcano Manor - Hallway Opposite Sending Gate
+- in the hallway towards the Imp Seal back to main Volcano Manor
+110. Volcano Manor - Room Before Sending Gate
+- on the doorway on the second story opposite the Sending Gate
+- using the Sending Gate after Volcano Manor temple
+111. Volcano Manor - Audience Pathway
+- before Rykard's arena
+112. Rykard, Lord of Blasphemy
+- at the front of Rykard's arena
 
 --------------------LEYNDELL-------------------------------
 
@@ -668,58 +726,6 @@ Shaded Castle - Elemer of the Briar
 - using the sending gate after Fia's Champions
 
 
-----------------------MT GELMIR-----------------------
-
-102. Before Volcano Manor Entrance
-- at the doorway from Mt. Gelmir
-164. Mt. Gelmir - Wyndham Catacombs
-- before Erdtree Burial Watchdog's arena
-- at the entrance from Mt. Gelmir
-165. Mt. Gelmir - Wyndham Catacombs - Erdtree Burial Watchdog
-- at the front of Erdtree Burial Watchdog's arena
-168. Mt. Gelmir - Gelmir Hero's Grave
-- before Red Wolf of the Champion's arena
-- at the entrance from Mt. Gelmir
-169. Mt. Gelmir - Gelmir Hero's Grave - Red Wolf of the Champion
-- at the front of Red Wolf of the Champion's arena
-208. Mt. Gelmir - Seethewater Cave
-- before Kindred of Rot Duo's arena
-- at the entrance from Mt. Gelmir
-209. Mt. Gelmir - Seethewater Cave - Kindred of Rot Duo
-- at the front of Kindred of Rot Duo's arena
-210. Mt. Gelmir - Volcano Cave
-- before Demi-Human Queen Margot's arena
-- at the entrance from Mt. Gelmir
-211. Mt. Gelmir - Volcano Cave - Demi-Human Queen Margot
-- at the front of Demi-Human Queen Margot's arena
-
-
-----------------VOLCANO MANOR---------------------
-
-103. Volcano Manor Drawing Room
-- at the end of the dark hallway leading to Prison Town
-104. Volcano Manor Prison Town Church
-- behind the altar coming from the manor
-105. Volcano Manor Prison Town
-- before Abductor Virgins' arena. it can be reached from main town dropping down outside Temple of Eiglay
-- before Godskin Noble's arena
-106. Volcano Manor - Abductor Virgins
-- at the front of Abductor Virgins' arena
-- at the back of Abductor Virgins' arena
-107. Volcano Manor - Temple of Eiglay
-- at the front of Godskin Noble's arena
-- at the back left of Godskin Noble's arena
-108. Volcano Manor - Temple of Eiglay Shortcut Elevator
-- after Godskin Noble's arena to the back left, down the shortcut elevator
-109. Volcano Manor - Hallway Opposite Sending Gate
-- in the hallway towards the Imp Seal back to main Volcano Manor
-110. Volcano Manor - Room Before Sending Gate
-- on the doorway on the second story opposite the Sending Gate
-- using the Sending Gate after Volcano Manor temple
-111. Volcano Manor - Audience Pathway
-- before Rykard's arena
-112. Rykard, Lord of Blasphemy
-- at the front of Rykard's arena
 
 
 
