@@ -1,540 +1,548 @@
-----------------CHAPEL OF ANTICIPATION---------------
+			----------------CHAPEL OF ANTICIPATION--------------- 000
 
- 			Chapel of Anticipation
-			1. before Grafted Scion's arena
-			2. using the Pureblood Knight's Medal from anywhere
+			Chapel of Anticipation
+			00001. before Grafted Scion's arena
+			00002. using the Pureblood Knight's Medal from anywhere
  			Chapel of Anticipation - Grafted Scion
-			3. at the front of Grafted Scion's arena
-			4. at the side exit of Grafted Scion's arena
+			00003. at the front of Grafted Scion's arena
+			00004. at the side exit of Grafted Scion's arena
  			Chapel of Anticipation - after Grafted Scion
-			5. after Grafted Scion's arena
+			00005. after Grafted Scion's arena
 
-
-----------------STRANDED GRAVEYARD----------------------
+			 
+			 ----------------STRANDED GRAVEYARD---------------------- 001
 
  			Stranded Graveyard
-			6. at the exit to Limgrave
-			7. at the door from Cave of Knowledge
+			00101. at the exit to Limgrave
+			00102. at the door from Cave of Knowledge
+			
+			Cave of Knowledge
+			00103. before Soldier of Godrick's arena
+			00104. at the door to Stranded Graveyard
+			Cave of Knowledge - Soldier of Godrick
+			00105. at the front of Soldier of Godrick's arena
+			00106. at the back of Soldier of Godrick's arena
+			Cave of Knowledge - After Soldier of Godrick
+			00107. after Soldier of Godrick's arena
+			Cave of Knowledge - From Seaside Ruins
+			00108. at the back entrance from the Seaside Ruins beach
 
- 			Cave of Knowledge
-			8. before Soldier of Godrick's arena
-			9. at the door to Stranded Graveyard
- 			Cave of Knowledge - Soldier of Godrick
-			10. at the front of Soldier of Godrick's arena
-			11. at the back of Soldier of Godrick's arena
- 			Cave of Knowledge - After Soldier of Godrick
-			12. after Soldier of Godrick's arena
- 			Cave of Knowledge - From Seaside Ruins
-			13. at the back entrance from the Seaside Ruins beach
+			
+---------------ROUNDTABLE HOLD------------------------------ 002
 
+	Roundtable Hold
+00201. in Roundtable Hold in the main room
+	Roundtable Hold Balcony
+00202. in Roundtable Hold at the balcony overlooking the first floor
 
------------------LIMGRAVE-----------------------------
+			
+			-----------------LIMGRAVE----------------------------- 010 + 011
 
  			Limgrave Overworld
-			14. at the back entrance to Stranded Graveyard from the Seaside Ruins beach
-			15. at the entrance from Stranded Graveyard
-			16. at the start of Nokron from Limgrave
-				17. at the Siofra River Well
-			18. at the entrance to Groveside Cave
-			19. at the entrance to Coastal Cave
-				20. at the entrance to Limgrave Tunnels
-			21. at the Gael Tunnel rear exit to Limgrave after the one-way door
-			22. at the entrance to Stormfoot Catacombs
-				23. at the entrance to Murkwater Cave
-			24. at the entrance to Murkwater Catacombs
-			25. at the entrance to Highroad Cave
-				26. before Mad Pumpkin Head's arena in Waypoint Ruins
-			27. opening the transporter chest in Dragon-Burnt Ruins in Agheel Lake
-				28. using the sending gate north of Third Church of Marika
-			29. entering Forlorn Hound Evergaol
+			01001. at the back entrance to Stranded Graveyard from the Seaside Ruins beach
+			01002. at the entrance from Stranded Graveyard
+			01003. at the start of Nokron from Limgrave
+			01004. at the Siofra River Well
+			01005. at the entrance to Groveside Cave
+			01006. at the entrance to Coastal Cave
+			01007. at the entrance to Limgrave Tunnels
+			01008. at the Gael Tunnel rear exit to Limgrave after the one-way door
+			01009. at the entrance to Stormfoot Catacombs
+			01010. at the entrance to Murkwater Cave
+			01011. at the entrance to Murkwater Catacombs
+			01012. at the entrance to Highroad Cave
+			01013. before Mad Pumpkin Head's arena in Waypoint Ruins
+			01014. opening the transporter chest in Dragon-Burnt Ruins in Agheel Lake
+			01015. using the sending gate north of Third Church of Marika
+			01016. entering Forlorn Hound Evergaol
 
  			Limgrave - Fringefolk Hero's Grave
-			30. before Ulcerated Tree Spirit's arena
+			01101. before Ulcerated Tree Spirit's arena
  			Limgrave - Fringefolk Hero's Grave - Ulcerated Tree Spirit
-			31. at the front of Ulcerated Tree Spirit's arena
+			01102. at the front of Ulcerated Tree Spirit's arena
+
  			Limgrave - Groveside Cave
-			32. at the entrance from Limgrave
-			33. before Beastman of Farum Azula's arena
+			 01103. at the entrance from Limgrave
+			 01104. before Beastman of Farum Azula's arena
+			Limgrave - Groveside Cave - Beastman of Farum Azula
+			01105. at the front of Beastman of Farum Azula's arena
+
  			Limgrave - Coastal Cave
-			34. at the entrance from Limgrave
-			35. before Demi-Human Chiefs' arena
- 			Limgrave Tunnels
-			36. at the entrance from Limgrave
-			37. before Stonedigger Troll's arena
-			 Limgrave - Stormfoot Catacombs
-			39. at the entrance from Limgrave
-			40. before Erdtree Burial Watchdog's arena
- 			Limgrave - Murkwater Cave
-			41. at the entrance from Limgrave
-			42. before Patches' arena
- 			Limgrave - Murkwater Catacombs
-			43. at the entrance from Limgrave
-			44. before Grave Warden Duelist's arena
-			Limgrave - Murkwater Catacombs - Grave Warden Duelist
-			121. at the front of Grave Warden Duelist's arena
-			Limgrave - Highroad Cave
-			45. at the entrance from Limgrave
-			46. before Guardian Golem's arena
-			Limgrave - Waypoint Ruins - Mad Pumpkin Head
-			47. at the front of Mad Pumpkin Head's arena
-			48. at the back of Mad Pumpkin Head's arena
- 			Limgrave - Waypoint Ruins - Sellen
-			49. after Mad Pumpkin Head's arena in Waypoint Ruins
- 			Limgrave - Coastal Cave - Demi-Human Chiefs
-			50. at the front of Demi-Human Chiefs' arena
-			51. at the back of Demi-Human Chiefs' arena
+			 01106. at the entrance from Limgrave
+			 01107. before Demi-Human Chiefs' arena
+			Limgrave - Coastal Cave - Demi-Human Chiefs
+			01108. at the front of Demi-Human Chiefs' arena
+			01109. at the back of Demi-Human Chiefs' arena
 			Limgrave - Church of Dragon Communion
-			52. after Coastal Cave boss to Dragon Church
+			01110. after Coastal Cave boss to Dragon Church
+
+ 			Limgrave Tunnels
+			 01111. at the entrance from Limgrave
+			 01112. before Stonedigger Troll's arena
+			Limgrave Tunnels - Stonedigger Troll
+			01113. at the front of Stonedigger Troll's arena
+
+			 Limgrave - Stormfoot Catacombs
+			 01114. at the entrance from Limgrave
+			 01115. before Erdtree Burial Watchdog's arena
 			Limgrave - Stormfoot Catacombs - Erdtree Burial Watchdog
-			53. at the front of Erdtree Burial Watchdog's arena
+			01116. at the front of Erdtree Burial Watchdog's arena
+
+ 			Limgrave - Murkwater Cave
+			 01117. at the entrance from Limgrave
+			 01118. before Patches' arena
  			Limgrave - Murkwater Cave - Patches
-			54. at the front of Patches' arena
-			55. opening the transporter chest in Patches' room
- 			Limgrave - Groveside Cave - Beastman of Farum Azula
-			56. at the front of Beastman of Farum Azula's arena
+			 01119. at the front of Patches' arena
+			 01120. opening the transporter chest in Patches' room
+
+ 			Limgrave - Murkwater Catacombs
+			 01121. at the entrance from Limgrave
+			 01122. before Grave Warden Duelist's arena
+			Limgrave - Murkwater Catacombs - Grave Warden Duelist
+			01123. at the front of Grave Warden Duelist's arena
+
+			Limgrave - Highroad Cave
+			01124. at the entrance from Limgrave
+			01125. before Guardian Golem's arena
  			Limgrave - Highroad Cave - Guardian Golem
-			57. at the front of Guardian Golem's arena
- 			Limgrave Tunnels - Stonedigger Troll
-			58. at the front of Stonedigger Troll's arena
+			 01126. at the front of Guardian Golem's arena
+
+			Limgrave - Waypoint Ruins - Mad Pumpkin Head
+			01127. at the front of Mad Pumpkin Head's arena
+			01128. at the back of Mad Pumpkin Head's arena
+ 			Limgrave - Waypoint Ruins - Sellen
+			 01129. after Mad Pumpkin Head's arena in Waypoint Ruins
+			
 
 
--------------------------STORMHILL----------------------------
+-------------------------STORMHILL--------------------------- 012
 
  			Stormhill Overworld
-			59. before Margit's arena
-			60. along the side path to Liurnia. go backwards by double-jumping to a Torrent-sized nook to the left of the ruined bridge pillar
-			61. at the entrance to Limgrave Colosseum
-			62. at the entrance to Deathtouched Catacombs
-			63. entering Stormhill Evergaol
+			01201. before Margit's arena
+			01202. along the side path to Liurnia, go backwards by double-jumping to a Torrent-sized nook to the left of the ruined bridge pillar
+			01203. at the entrance to Limgrave Colosseum
+			01204. at the entrance to Deathtouched Catacombs
+			01205. entering Stormhill Evergaol
 
  			Margit, the Fell Omen
-			64. at the front of Margit's arena
-			65. at the back of Margit's arena
+			01206. at the front of Margit's arena
+			01207. at the back of Margit's arena
+
  			Stormhill - Deathtouched Catacombs
-			66. at the entrance from Stormhill
-			67. before Black Knife Assassin's arena
+			01208. at the entrance from Stormhill
+			01209. before Black Knife Assassin's arena
  			Stormhill - Deathtouched Catacombs - Black Knife Assassin
-			68. at the front of Black Knife Assassin's arena
+			01210. at the front of Black Knife Assassin's arena
 
 			Stormveil Castle before Gate
-			69. after Margit's arena
+			01211. after Margit's arena
  			Stormveil Castle after Gate
-			70. before Godrick's arena
-			71. at the side path to Limgrave Divine Tower
+			01212. before Godrick's arena
+			01213. at the side path to Limgrave Divine Tower
  			Godrick the Grafted
-			72. at the front of Godrick's arena
+			01214. at the front of Godrick's arena
  			Divine Tower of Limgrave
-			73. at the entrance from Stormveil Castle
-			74. using the sending gate in the first half of the Divine Tower of Limgrave
+			01215. at the entrance from Stormveil Castle
+			01216. using the sending gate in the first half of the Divine Tower of Limgrave
  			Stormveil Castle Throne Room
-			75. at the rear exit to Liurnia
+			01217. at the rear exit to Liurnia
 
 
--------------WEEPING PENINSULA------------------
+-------------WEEPING PENINSULA------------------ 013
 
  			Weeping Peninsula Overworld
-			76. opening the transporter chest atop the Tower of Return
-			77. at the entrance to Tombsward Cave
-			78. at the entrance to Morne Tunnel
-			79. at the entrance to Tombsward Catacombs
-			80. at the entrance to Earthbore Cave
-			81. at the entrance to Impaler's Catacombs
-			82. entering Weeping Evergaol
+			01301. opening the transporter chest atop the Tower of Return
+			01302. at the entrance to Tombsward Cave
+			01303. at the entrance to Morne Tunnel
+			01304. at the entrance to Tombsward Catacombs
+			01305. at the entrance to Earthbore Cave
+			01306. at the entrance to Impaler's Catacombs
+			01307. entering Weeping Evergaol
 
  			Weeping Peninsula - Tombsward Cave
-			83. at the entrance from Weeping Peninsula
-			84. before Miranda Blossom's arena
+			01308. at the entrance from Weeping Peninsula
+			01309. before Miranda Blossom's arena
+			Weeping Peninsula - Tombsward Cave - Miranda Blossom
+		   	01310. at the front of Miranda Blossom's arena
+
  			Weeping Peninsula - Morne Tunnel
-			85. at the entrance from Weeping Peninsula
-			86. before Scaly Misbegotten's arena
+			01311. at the entrance from Weeping Peninsula
+			01312. before Scaly Misbegotten's arena
+			Weeping Peninsula - Morne Tunnel - Scaly Misbegotten
+		   	01313. at the front of Scaly Misbegotten's arena
+
  			Weeping Peninsula - Tombsward Catacombs
-			87. at the entrance from Weeping Peninsula
-			88. before Cemetery Shade's arena
+			01314. at the entrance from Weeping Peninsula
+			01315. before Cemetery Shade's arena
+			Weeping Peninsula - Tombsward Catacombs - Cemetery Shade
+		   	01316. at the front of Cemetery Shade's arena
+
 			 Weeping Peninsula - Earthbore Cave
-			89. at the entrance from Weeping Peninsula
-			90. before Runebear's arena
+			01317. at the entrance from Weeping Peninsula
+			01318. before Runebear's arena
+			Weeping Peninsula - Earthbore Cave - Runebear
+		   	01319. at the front of Runebear's arena
+
  			Weeping Peninsula - Impaler's Catacombs
-			91. at the entrance from Weeping Peninsula
-			92. before Erdtree Burial Watchdog's arena
- 			Weeping Peninsula - Beside the Rampart Gaol
-			93. before Leonine Misbegotten's arena
- 			Leonine Misbegotten
-			94. at the front of Leonine Misbegotten's arena
-
- 			Weeping Peninsula - Tombsward Catacombs - Cemetery Shade
-			95. at the front of Cemetery Shade's arena
+			01320. at the entrance from Weeping Peninsula
+			01321. before Erdtree Burial Watchdog's arena
  			Weeping Peninsula - Impaler's Catacombs - Erdtree Burial Watchdog
-			96. at the front of Erdtree Burial Watchdog's arena
-			 Weeping Peninsula - Earthbore Cave - Runebear
-			97. at the front of Runebear's arena
- 			Weeping Peninsula - Tombsward Cave - Miranda Blossom
-			98. at the front of Miranda Blossom's arena
- 			Weeping Peninsula - Morne Tunnel - Scaly Misbegotten
-			99. at the front of Scaly Misbegotten's arena
+			01322. at the front of Erdtree Burial Watchdog's arena
+
+ 			Weeping Peninsula - Beside the Rampart Gaol
+			01323. before Leonine Misbegotten's arena
+ 			Leonine Misbegotten
+			01324. at the front of Leonine Misbegotten's arena
 
 
------------------LIURNIA---------------------------
 
- 			Liurnia Overworld
-			100. along the side path from Stormhill
-			101. at the Stormveil Castle rear exit
-			102. using South Raya Lucaria Gate
-			103. at the entrance to Carian Study Hall
-			104. using the 2nd Belfry labeled Precipice of Anticipation
-			105. using the 3rd Belfry labeled Night Sky Unceasing
-			106. using the 1st Belfry labeled Crumbling Lands
-			107. at the Ruin-Strewn Precipice entrance
-			108. at the Ainsel River Well
-			109. at the entrance to Raya Lucaria Crystal Tunnel
-			110. at the entrance to Road's End Catacombs
-			111. at the entrance to Academy Crystal Cave, with Stonesword Key
-			112. before Royal Revenant's arena in Kingsrealm Ruins
-			113. at the entrance to Lakeside Crystal Cave
-			114. at the entrance to Stillwater Cave
-			115. at the entrance to Cliffbottom Catacombs
-			116. at the entrance to Black Knife Catacombs
-			117. using the sending gate from the gazebo straight east of Raya Lucaria South Entrance
-			118. using the sending gate in Laskyar Ruins or Purified Ruins
-			119. entering Cuckoo's Evergaol
-			120. entering Malefactor's Evergaol
+-----------------LIURNIA--------------------------- 020 + 021
 
- 			Carian Study Hall
-			123. at the entrance from Liurnia
-
- 			Ruin-Strewn Precipice
-			124. at the entrance from Liurnia
-			125. before Magma Worm Makar's arena
-
- 			Liurnia - Raya Lucaria Crystal Tunnel
-			126. at the entrance from Liurnia
-			127. before Crystalian's arena
-
- 			Liurnia - Road's End Catacombs
-			128. at the entrance from Liurnia
-			129. before Spiritcaller Snail's arena
- 			Liurnia - Road's End Catacombs - Spiritcaller Snail
-			147. at the front of Spiritcaller Snail's arena
+			Liurnia Overworld
+			02001. along the side path from Stormhill
+			02002. at the Stormveil Castle rear exit
+			02003. using South Raya Lucaria Gate
+			02004. at the entrance to Carian Study Hall
+			02005. using the 2nd Belfry labeled Precipice of Anticipation
+			02006. using the 3rd Belfry labeled Night Sky Unceasing
+			02007. using the 1st Belfry labeled Crumbling Lands
+			02008. at the Ruin-Strewn Precipice entrance
+			02009. at the Ainsel River Well
+			02010. at the entrance to Raya Lucaria Crystal Tunnel
+			02011. at the entrance to Road's End Catacombs
+			02012. at the entrance to Academy Crystal Cave, with Stonesword Key
+			02013. before Royal Revenant's arena in Kingsrealm Ruins
+			02014. at the entrance to Lakeside Crystal Cave
+			02015. at the entrance to Stillwater Cave
+			02016. at the entrance to Cliffbottom Catacombs
+			02017. at the entrance to Black Knife Catacombs
+			02018. using the sending gate from the gazebo straight east of Raya Lucaria South Entrance
+			02019. using the sending gate in Laskyar Ruins or Purified Ruins
+			02020. entering Cuckoo's Evergaol
+			02021. entering Malefactor's Evergaol
+			
+			Carian Study Hall
+			02101. at the entrance from Liurnia
+			
+			Ruin-Strewn Precipice
+			02102. at the entrance from Liurnia
+			02103. before Magma Worm Makar's arena
+			Magma Wrym Makar
+			02104. at the front of Magma Wyrm Makar's arena
+			02105. at the back of Magma Wyrm Makar's arena
+			After Magma Wyrm Makar
+			02106. after Magma Worm Makar's arena
+			
+			Liurnia - Raya Lucaria Crystal Tunnel
+			02107. at the entrance from Liurnia
+			02108. before Crystalian's arena
+			Liurnia - Raya Lucaria Crystal Tunnel - Crystalian
+		   	02109. at the front of Crystalian's arena
+			
+			Liurnia - Road's End Catacombs
+			02110. at the entrance from Liurnia
+			02111. before Spiritcaller Snail's arena
+			Liurnia - Road's End Catacombs - Spiritcaller Snail
+			02112. at the front of Spiritcaller Snail's arena
 
  			Liurnia - Academy Crystal Cave
-			130. at the entrance from Liurnia
-			131. before Crystallians' arena
+			02113. at the entrance from Liurnia
+			02114. before Crystallians' arena
  			Liurnia - Academy Crystal Cave - Crystalian Duo
-			161. at the front of Crystallians' arena
-			162. at the back of Crystallians' arena
+			02115. at the front of Crystallians' arena
+			02116. at the back of Crystallians' arena
 
  			Liurnia - Kingsrealm Ruins - Royal Revenant
-			132. at the front of Royal Revenant's arena
-			133. at the back of Royal Revenant's arena
+			02117. at the front of Royal Revenant's arena
+			02118. at the back of Royal Revenant's arena
+			Liurnia - Kingsrealm Ruins - After Boss
+		   	02119. after Royal Revenant's arena in Kingsrealm Ruins
 
  			Liurnia - Lakeside Crystal Cave
-			134. at the entrance from Liurnia
-			135. before Bloodhound Knight's arena
+			02120. at the entrance from Liurnia
+			02121. before Bloodhound Knight's arena
  			Liurnia - Lakeside Crystal Cave - Bloodhound Knight
-			146. at the back of Bloodhound Knight's arena
-			145. at the front of Bloodhound Knight's arena
+			02122. at the back of Bloodhound Knight's arena
+			02123. at the front of Bloodhound Knight's arena
 			Liurnia - Slumbering Wolf's Shack
-			144. after Lakeside Crystal Cave boss
+			02124. after Lakeside Crystal Cave boss
 
  			Liurnia - Stillwater Cave
-			136. at the entrance from Liurnia
-			137. before Cleanrot Knight's arena
+			02125. at the entrance from Liurnia
+			02126. before Cleanrot Knight's arena
  			Liurnia - Stillwater Cave - Cleanrot Knight
-			151. at the front of Cleanrot Knight's arena
+			02127. at the front of Cleanrot Knight's arena
 
  			Liurnia - Cliffbottom Catacombs
-			138. at the entrance from Liurnia
-			139. before Erdtree Burial Watchdog's arena
+			02128. at the entrance from Liurnia
+			02129. before Erdtree Burial Watchdog's arena
  			Liurnia - Cliffbottom Catacombs - Erdtree Burial Watchdog
-			150. at the front of Erdtree Burial Watchdog's arena
+			02130. at the front of Erdtree Burial Watchdog's arena
 
  			Liurnia - Black Knife Catacombs
-			140. at the entrance from Liurnia
-			141. before Cemetery Shade's arena
-			142. before Black Knife Assassin's arena
+			02131. at the entrance from Liurnia
+			02132. before Cemetery Shade's arena
+			02133. before Black Knife Assassin's arena
  			Liurnia - Black Knife Catacombs - Cemetery Shade
-			148. at the front of Cemetery Shade's arena
+			02134. at the front of Cemetery Shade's arena
  			Liurnia - Black Knife Catacombs - Black Knife Assassin
-			149. at the front of Black Knife Assassin's arena
-
- 			Liurnia - Kingsrealm Ruins - After Boss
-			143. after Royal Revenant's arena in Kingsrealm Ruins
-
-
- 			Liurnia - Raya Lucaria Crystal Tunnel - Crystalian
-			152. at the front of Crystalian's arena
+			02135. at the front of Black Knife Assassin's arena
 
  			Royal Knight Loretta
-			153. at the front of Loretta's arena
-			154. at the back of Loretta's arena
+			02136. at the front of Loretta's arena
+			02137. at the back of Loretta's arena
  			Liurnia - Caria Manor
-			155. before Loretta's arena
+			02138. before Loretta's arena
  			Liurnia Behind Caria Manor
-			156. after Loretta's arena
-			157. entering Royal Grave Evergaol
+			02139. after Loretta's arena
+			02140. entering Royal Grave Evergaol
 
  			Divine Tower of Liurnia
-			158. opening the door at the bottom of the flipped tower
+			02141. opening the door at the bottom of the flipped tower
 
  			Bellum Highway
-			159. using the Dectus Medallion in Bellum Highway
-			160. using East Raya Lucaria Gate
+			02142. using the Dectus Medallion in Bellum Highway
+			02143. using East Raya Lucaria Gate
 
- 			Magma Wrym Makar
-			161. at the front of Magma Wyrm Makar's arena
-			162. at the back of Magma Wyrm Makar's arena
- 			After Magma Wyrm Makar
-			163. after Magma Worm Makar's arena
 
------------------RAYA LUCARIA-----------------------
+-----------------RAYA LUCARIA----------------------- 022
 
-			122. using the sending gate before the elevator to Grand Library
+			02201. using the sending gate before the elevator to Grand Library
 
 			 Academy of Raya Lucaria Main Entrance
-			164. using South-facing gate at Raya Lucaria Main Entrance
-			165. using East-facing gate at Raya Lucaria Main Entrance
+			02202. using South-facing gate at Raya Lucaria Main Entrance
+			02203. using East-facing gate at Raya Lucaria Main Entrance
  			Academy of Raya Lucaria
-			166. before Red Wolf's arena
-			167. getting abducted at the bottom of the elevator. this requires dying in the bottom 30 meters, not above that
+			02204. before Red Wolf's arena
+			02205. getting abducted at the bottom of the elevator, this requires dying in the bottom 30 meters, not above that
  			Red Wolf of Radagon
-			168. at the front of Red Wolf's arena
-			169. at the back left of Red Wolf's arena
+			02206. at the front of Red Wolf's arena
+			02207. at the back left of Red Wolf's arena
 			Academy of Raya Lucaria after Red Wolf
-			170. after Red Wolf's arena
-			171. before Rennala's arena
-			172. on the steps to Raya Lucaria rooftops section
+			02208. after Red Wolf's arena
+			02209. before Rennala's arena
+			02210. on the steps to Raya Lucaria rooftops section
  			Academy of Raya Lucaria - Grand Library
-			173. at the front of Rennala's arena
+			02211. at the front of Rennala's arena
  			Academy of Raya Lucaria Rooftops
-			174. at the top of the steps before Raya Lucaria rooftops section
+			02212. at the top of the steps before Raya Lucaria rooftops section
 
  			Academy of Raya Lucaria - After Academy Crystal Cave
-			175. after Academy Crystal Cave boss
+			02213. after Academy Crystal Cave boss
 
 
-
-
----------------ROUNDTABLE HOLD------------------------------
-
- Roundtable Hold
-176. in Roundtable Hold in the main room
- Roundtable Hold Balcony
-177. in Roundtable Hold at the balcony overlooking the first floor
-
-
--------------------------CAELID---------------------------
+-------------------------CAELID--------------------------- 030 + 031
 
  			Caelid Overworld
-			178. at the entrance to Minor Erdtree Catacombs
-			179. at the entrance to Caelid Catacombs
-			180. at the entrance to Gael Tunnel Start
-			181. at the entrance to Gaol Cave, with Stonesword Key
-			182- before Mad Pumpkin Heads' arena in Caelem Ruins
-			183- before Nox Duo's arena in Sellia Chair-Crypt
-			184- at the entrance to Sellia Crystal Tunnel
-			185- at the entrance to Abandoned Cave
-			186- using the sending gate atop Fort Gael
-			187- using either sending gate in Impassable Greatbridge
+			03001. at the entrance to Minor Erdtree Catacombs
+			03002. at the entrance to Caelid Catacombs
+			03003. at the entrance to Gael Tunnel Start
+			03004. at the entrance to Gaol Cave, with Stonesword Key
+			03005. before Mad Pumpkin Heads' arena in Caelem Ruins
+			03006. before Nox Duo's arena in Sellia Chair-Crypt
+			03007. at the entrance to Sellia Crystal Tunnel
+			03008. at the entrance to Abandoned Cave
+			03009. using the sending gate atop Fort Gael
+			03010. using either sending gate in Impassable Greatbridge
 
 			Caelid Greatjar
-			188- at the Deep Siofra Well
-			189- at the entrance to Caelid Colosseum
+			03011. at the Deep Siofra Well
+			03012. at the entrance to Caelid Colosseum
 
 
  			Caelid - Minor Erdtree Catacombs
-			190- at the entrance from Caelid
-			191- before Erdtree Burial Watchdogs' arena
+			03101. at the entrance from Caelid
+			03102. before Erdtree Burial Watchdogs' arena
 			 Caelid - Minor Erdtree Catacombs - Erdtree Burial Watchdogs
-			192- at the front of Erdtree Burial Watchdogs' arena
+			03103. at the front of Erdtree Burial Watchdogs' arena
 
  			Caelid Catacombs
-			193- at the entrance from Caelid
-			194- before Cemetery Shade's arena
+			03104. at the entrance from Caelid
+			03105. before Cemetery Shade's arena
  			Caelid Catacombs - Cemetery Shade
-			195- at the front of Cemetery Shade's arena
+			03106. at the front of Cemetery Shade's arena
 
 			Caelid - Gael Tunnel Start
-			196. at the entrance from Caelid
+			03107. at the entrance from Caelid
 			Caelid - Gael Tunnel
-			197- before Magma Wyrm's arena
+			03108. before Magma Wyrm's arena
 			Caelid - Gael Tunnel - Magma Wyrm
-			198- at the front of Magma Wyrm's arena
+			03109. at the front of Magma Wyrm's arena
 			Caelid - Rear Gael Tunnel
-			199- at the Gael Tunnel rear exit, North of the Third Church of Marika
+			03110. at the Gael Tunnel rear exit, North of the Third Church of Marika
 
  			Caelid - Gaol Cave
-			200- at the entrance from Caelid
-			201- before Frenzied Duelist's arena
+			03111. at the entrance from Caelid
+			03112. before Frenzied Duelist's arena
  			Caelid - Gaol Cave - Above Boss
-			202- at the dropdown before Frenzied Duelist's arena
+			03113. at the dropdown before Frenzied Duelist's arena
 			Caelid - Gaol Cave - Frenzied Duelist
-			203- at the back of Frenzied Duelist's arena
+			03114. at the back of Frenzied Duelist's arena
 			Caelid - After Gaol Cave
-			204- after Frenzied Duelist's arena
+			03115. after Frenzied Duelist's arena
 
 			Caelid - Caelem Ruins - Mad Pumpkin Heads
-			205- at the front of Mad Pumpkin Heads' arena
-			206- at the back of Mad Pumpkin Heads' arena
+			03116. at the front of Mad Pumpkin Heads' arena
+			03117. at the back of Mad Pumpkin Heads' arena
 			Caelid - Caelem Ruins - After Boss
-			216- after Mad Pumpkin Heads' arena in Caelem Ruins
+			03118. after Mad Pumpkin Heads' arena in Caelem Ruins
 
 			Caelid - Sellia Chair-Crypt - Nox Duo
-			207- at the front of Nox Duo's arena
-			208- at the back of Nox Duo's arena
+			03119. at the front of Nox Duo's arena
+			03120. at the back of Nox Duo's arena
 			Caelid - Sellia Chair-Crypt - After Boss
-			215- after Nox Duo's arena in Sellia Chair-Crypt
+			03121. after Nox Duo's arena in Sellia Chair-Crypt
 
 			Caelid - Sellia Crystal Tunnel
-			209- at the entrance from Caelid
-			210- before Fallingstar Beast's arena
+			03122. at the entrance from Caelid
+			03123. before Fallingstar Beast's arena
 			Caelid - Sellia Crystal Tunnel - Fallingstar Beast
-			211- at the front of Fallingstar Beast's arena
+			03124. at the front of Fallingstar Beast's arena
 
 			Caelid - Abandoned Cave Start
-			212- at the entrance from Caelid
+			03125. at the entrance from Caelid
 			Caelid - Abandoned Cave
-			213- before Cleanrot Knights' arena
+			03126. before Cleanrot Knights' arena
 			Caelid - Abandoned Cave - Cleanrot Knights
-			214- at the front of Cleanrot Knights' arena
+			03127. at the front of Cleanrot Knights' arena
 
 
- 
-
---------------------CASTLE REDMANE-----------------------
+--------------------CASTLE REDMANE----------------------- 032
 
  			Castle Redmane
-			217- before Redmane Castle Plaza
-			218- using the sending gate in Redmane Castle
+			03201. before Redmane Castle Plaza
+			03202. using the sending gate in Redmane Castle
  			Castle Redmane Boss
-			219- at the front of Redmane Castle Plaza
-			220- at the back of Redmane Castle Plaza
+			03203. at the front of Redmane Castle Plaza
+			03204. at the back of Redmane Castle Plaza
  			After Castle Redmane Boss
-			221- after Redmane Castle Plaza
-			222- at the bottom of the elevator before the Radahn warp
+			03205. after Redmane Castle Plaza
+			03206. at the bottom of the elevator before the Radahn warp
  			Before Radahn
-			223- at the bottom of the elevator before the Radahn warp
-			224- using the Sending Gate before Starscourge Radahn
+			03207. at the bottom of the elevator before the Radahn warp
+			03208. using the Sending Gate before Starscourge Radahn
  			Starscourge Radahn
-			225- at the far North entrance to War-Dead Catacombs
+			03209. at the far North entrance to War-Dead Catacombs
+
  			Caelid - War-Dead Catacombs
-			226- at the entrance from Radahn's arena
-			227- before Putrid Tree Spirit's arena
+			03210. at the entrance from Radahn's arena
+			03211. before Putrid Tree Spirit's arena
 			 Caelid - War-Dead Catacombs - Putrid Tree Spirit
-			228- at the front of Putrid Tree Spirit's arena
+			03212. at the front of Putrid Tree Spirit's arena
 
 
----------------DRAGONBARROW-------------------------
+---------------DRAGONBARROW------------------------- 033
 
  			Dragonbarrow Overworld
-			229- at the right entrance to Divine Tower of Caelid
-			230- at the middle entrance to Divine Tower of Caelid
-			231- at the left entrance to Divine Tower of Caelid
-			232- at the entrance to Sellia Hideaway
-			233- at the entrance to Dragonbarrow Cave
-			234- entering Sellia Evergaol
+			03301. at the right entrance to Divine Tower of Caelid
+			03302. at the middle entrance to Divine Tower of Caelid
+			03303. at the left entrance to Divine Tower of Caelid
+			03304. at the entrance to Sellia Hideaway
+			03305. at the entrance to Dragonbarrow Cave
+			03306. entering Sellia Evergaol
 
  			Divine Tower of Caelid
-			235- at the left exit to Dragonbarrow, facing north
-			236- at the middle exit to Dragonbarrow
-			237- at the right exit to Dragonbarrow, facing north
-			238- before Godskin Apostle's arena
-			239- up the stairs to Caelid Divine Tower's Two Fingers
+			03307. at the left exit to Dragonbarrow, facing north
+			03308. at the middle exit to Dragonbarrow
+			03309. at the right exit to Dragonbarrow, facing north
+			03310. before Godskin Apostle's arena
+			03311. up the stairs to Caelid Divine Tower's Two Fingers
 
 			Divine Tower of Caelid - Godskin Apostle
-			240- at the front of Godskin Apostle's arena
-			241- at the back of Godskin Apostle's arena
+			03312. at the front of Godskin Apostle's arena
+			03313. at the back of Godskin Apostle's arena
  			Divine Tower of Caelid Interior
-			242- at the door to Caelid Divine Tower's Two Fingers
+			03314. at the door to Caelid Divine Tower's Two Fingers
  			Divine Tower of Caelid - After Godskin Apostle
-			243- after Godskin Apostle's arena
+			03315. after Godskin Apostle's arena
 
  			Dragonbarrow - Sellia Hideaway
-			244- at the entrance from Dragonbarrow
-			245- before Putrid Crystalians' arena
+			03316. at the entrance from Dragonbarrow
+			03317. before Putrid Crystalians' arena
  			Dragonbarrow - Sellia Hideaway - Putrid Crystalians
-			246- at the front of Putrid Crystalians' arena
+			03318. at the front of Putrid Crystalians' arena
 
  			Dragonbarrow Cave
-			247- at the entrance from Dragonbarrow
-			248- before Beastmen of Farum Azula's arena
+			03319. at the entrance from Dragonbarrow
+			03320. before Beastmen of Farum Azula's arena
 			Dragonbarrow Cave - Beastmen of Farum Azula
-			249- at the front of Beastmen of Farum Azula's arena
+			03321. at the front of Beastmen of Farum Azula's arena
 
 
----------------------ALTUS PLATEAU-----------------------
+---------------------ALTUS PLATEAU----------------------- 040 + 041
 
  			Altus Plateau Overworld
-			250- using the Dectus Medallion in Altus Plateau
-			251- at the entrance to Sainted Hero's Grave
-			252- at the entrance to Unsightly Catacombs
-			253- at the entrance to Old Altus Tunnel, with Stonesword Key
-			254- at the entrance to Sage's Cave
-			255- before Demi-Human Queen Gilika's arena in Lux Ruins
-			256- before Sanguine Noble's arena in Writheblood Ruins
-			257- at the entrance to Perfumer's Grotto
-			258- at the entrance to Altus Tunnel
-			259- using the sending gate by the Forest-Spanning Greatbridge grace
-			260- entering Golden Lineage Evergaol
+			04001. using the Dectus Medallion in Altus Plateau
+			04002. at the entrance to Sainted Hero's Grave
+			04003. at the entrance to Unsightly Catacombs
+			04004. at the entrance to Old Altus Tunnel, with Stonesword Key
+			04005. at the entrance to Sage's Cave
+			04006. before Demi-Human Queen Gilika's arena in Lux Ruins
+			04007. before Sanguine Noble's arena in Writheblood Ruins
+			04008. at the entrance to Perfumer's Grotto
+			04009. at the entrance to Altus Tunnel
+			04010. using the sending gate by the Forest-Spanning Greatbridge grace
+			04011. entering Golden Lineage Evergaol
 
 			Altus Plateau - Sainted Hero's Grave
-			261- at the entrance from Altus Plateau
-			262- before Ancient Hero of Zamor's arena
+			04101. at the entrance from Altus Plateau
+			04102. before Ancient Hero of Zamor's arena
 			Altus Plateau - Sainted Hero's Grave - Ancient Hero of Zamor
-			263- at the front of Ancient Hero of Zamor's arena
+			04103. at the front of Ancient Hero of Zamor's arena
 
 			Altus Plateau - Unsightly Catacombs
-			264- at the entrance from Altus Plateau
-			265- before Perfumer Tricia and Misbegotten Warrior's arena
+			04104. at the entrance from Altus Plateau
+			04105. before Perfumer Tricia and Misbegotten Warrior's arena
 			Altus Plateau - Unsightly Catacombs - Perfumer Tricia and Misbegotten Warrior
-			266- at the front of Perfumer Tricia and Misbegotten Warrior's arena
+			04106. at the front of Perfumer Tricia and Misbegotten Warrior's arena
 
 			Old Altus Tunnel
-			267- at the entrance from Altus Plateau
-			268- before Stonedigger Troll's arena
+			04107. at the entrance from Altus Plateau
+			04108. before Stonedigger Troll's arena
 			Old Altus Tunnel - Stonedigger Troll
-			269- at the front of Stonedigger Troll's arena
+			04109. at the front of Stonedigger Troll's arena
 
  			Altus Plateau - Sage's Cave
-			270- at the entrance from Altus Plateau
-			271- before Black Knife Assassin's arena
-			272- before Necromancer Garris' arena
+			04110. at the entrance from Altus Plateau
+			04111. before Black Knife Assassin's arena
+			04112. before Necromancer Garris' arena
  			Altus Plateau - Sage's Cave - Black Knife Assassin
-			273- at the front of Black Knife Assassin's arena
+			04113. at the front of Black Knife Assassin's arena
 			Altus Plateau - Sage's Cave - Necromancer Garris
-			274- at the front of Necromancer Garris' arena
+			04114. at the front of Necromancer Garris' arena
 
 			Altus Plateau - Lux Ruins - Demi-Human Queen Gilika
-			275- at the front of Demi-Human Queen Gilika's arena
-			276- at the back of Demi-Human Queen Gilika's arena
+			04115. at the front of Demi-Human Queen Gilika's arena
+			04116. at the back of Demi-Human Queen Gilika's arena
 			Altus Plateau - Lux Ruins - After Boss
-			277- after Demi-Human Queen Gilika's arena in Lux Ruins
+			04117. after Demi-Human Queen Gilika's arena in Lux Ruins
 
 			Altus Plateau - Writheblood Ruins - Sanguine Noble
-			278- at the front of Sanguine Noble's arena
-			279- at the back of Sanguine Noble's arena
+			04118. at the front of Sanguine Noble's arena
+			04119. at the back of Sanguine Noble's arena
 			Altus Plateau - Writheblood Ruins - After Boss
-			280- after Sanguine Noble's arena in Writheblood Ruins
+			04120. after Sanguine Noble's arena in Writheblood Ruins
 
 			Altus Plateau - Perfumer's Grotto
-			281- at the entrance from Altus Plateau
-			282- before Omenkiller and Miranda the Blighted Bloom's arena
+			04121. at the entrance from Altus Plateau
+			04122. before Omenkiller and Miranda the Blighted Bloom's arena
 			Altus Plateau - Perfumer's Grotto - Omenkiller and Miranda the Blighted Bloom
-			283- at the front of Omenkiller and Miranda the Blighted Bloom's arena
+			04123. at the front of Omenkiller and Miranda the Blighted Bloom's arena
 
 			Altus Tunnel
-			284- at the entrance from Altus Plateau
-			285- before Crystalian Duo's arena
+			04124. at the entrance from Altus Plateau
+			04125. before Crystalian Duo's arena
 			Altus Tunnel - Crystalian Duo
-			286- at the front of Crystalian Duo's arena
-
+			04126. at the front of Crystalian Duo's arena
 
 			Shaded Castle
-			287- before Elemer of the Briar's arena
+			04127. before Elemer of the Briar's arena
 			Shaded Castle - Elemer of the Briar
-			288- at the front of Elemer of the Briar's arena
+			04128. at the front of Elemer of the Briar's arena
 
 
 
-------------------CAPITAL OUTSKIRTS---------------------
+------------------CAPITAL OUTSKIRTS--------------------- 042
 
  			Capital Outskirts Overworld
 			289- up the stairs behind Draconic Tree Sentinel
@@ -586,8 +594,69 @@
  Capital Outskirts - Auriza Side Tomb - Dupe Jail and Lever
 316- using the chest in the duplicate jail
 
+----------------------MT GELMIR----------------------- 043
 
---------------------LEYNDELL-------------------------------
+154. Mt. Gelmir Overworld
+- at the entrance to Volcano Manor
+- at the entrance to Wyndham Catacombs
+- at the entrance to Gelmir Hero's Grave
+- at the entrance to Seethewater Cave, with Stonesword Key
+- at the entrance to Volcano Cave
+
+155. Before Volcano Manor Entrance
+- at the doorway from Mt. Gelmir
+156. Mt. Gelmir - Wyndham Catacombs
+- at the entrance from Mt. Gelmir
+- before Erdtree Burial Watchdog's arena
+157. Mt. Gelmir - Gelmir Hero's Grave
+- at the entrance from Mt. Gelmir
+- before Red Wolf of the Champion's arena
+158. Mt. Gelmir - Seethewater Cave
+- at the entrance from Mt. Gelmir
+- before Kindred of Rot Duo's arena
+159. Mt. Gelmir - Volcano Cave
+- at the entrance from Mt. Gelmir
+- before Demi-Human Queen Margot's arena
+224. Mt. Gelmir - Wyndham Catacombs - Erdtree Burial Watchdog
+- at the front of Erdtree Burial Watchdog's arena
+226. Mt. Gelmir - Gelmir Hero's Grave - Red Wolf of the Champion
+- at the front of Red Wolf of the Champion's arena
+249. Mt. Gelmir - Seethewater Cave - Kindred of Rot Duo
+- at the front of Kindred of Rot Duo's arena
+250. Mt. Gelmir - Volcano Cave - Demi-Human Queen Margot
+- at the front of Demi-Human Queen Margot's arena
+
+
+----------------VOLCANO MANOR--------------------- 044
+
+160. Volcano Manor Drawing Room
+- at the end of the dark hallway leading to Prison Town
+161. Volcano Manor Prison Town Church
+- behind the altar coming from the manor
+162. Volcano Manor Prison Town
+- before Abductor Virgins' arena. it can be reached from main town dropping down outside Temple of Eiglay
+- before Godskin Noble's arena
+163. Volcano Manor - Abductor Virgins
+- at the front of Abductor Virgins' arena
+- at the back of Abductor Virgins' arena
+164. Volcano Manor - Temple of Eiglay
+- at the front of Godskin Noble's arena
+- at the back left of Godskin Noble's arena
+165. Volcano Manor - Temple of Eiglay Shortcut Elevator
+- after Godskin Noble's arena to the back left, down the shortcut elevator
+166. Volcano Manor - Hallway Opposite Sending Gate
+- in the hallway towards the Imp Seal back to main Volcano Manor
+167. Volcano Manor - Room Before Sending Gate
+- on the doorway on the second story opposite the Sending Gate
+- using the Sending Gate after Volcano Manor temple
+168. Volcano Manor - Audience Pathway
+- before Rykard's arena
+169. Rykard, Lord of Blasphemy
+- at the front of Rykard's arena
+170. Volcano Manor - After Abductor Virgins
+- after Abductor Virgins' arena
+
+--------------------LEYNDELL------------------------------- 045
 
 110. Leyndell Start
 - at the Leyndell entrance from Capital Rampart
@@ -637,7 +706,7 @@
 - at the exit to Forbidden Lands
 
 
-------------------ASHEN LEYNDELL------------------------
+------------------ASHEN LEYNDELL------------------------ 046
 
 111. Ashen Leyndell
 - at the Ashen Capital entrance from Capital Rampart
@@ -671,7 +740,7 @@
 - at the base of the elevator to the Divine Tower of East Altus
 
 
-----------------SUBTERRANEAN SHUNNING-GROUNDS------------------
+----------------SUBTERRANEAN SHUNNING-GROUNDS------------------ 047
 
 114. Subterranean Shunning-Grounds - From Royal Capital
 - at the entrance from Leyndell, Royal Capital
@@ -688,14 +757,53 @@
 - at the front of Esgar, Priest of Blood's arena
 
 
-------------------FORBIDDEN LANDS----------------------
+------------------MOUTAINTOPS--------------------------- 050 + 051
+
+179. Mountaintops of the Giants Overworld
+- using the Rold Medallion at Mountaintops of the Giants
+- at the entrance to Giants' Mountaintop Catacombs
+- at the entrance to Spiritcaller Cave, with Stonesword Key
+- entering Lord Contender's Evergaol
+
+263. Mountaintops - Spiritcaller Cave - Spiritcaller Snail
+- at the front of Spiritcaller Snail's arena
+
+241. Flame Peak - Giant-Conquering Hero's Grave - Ancient Hero of Zamor
+- at the front of Ancient Hero of Zamor's arena
+242. Flame Peak - Giants' Mountaintop Catacombs - Ulcerated Tree Spirit
+- at the front of Ulcerated Tree Spirit's arena
+180. Flame Peak - Giants' Mountaintop Catacombs
+- at the entrance from Mountaintops of the Giants
+- before Ulcerated Tree Spirit's arena
+181. Mountaintops - Spiritcaller Cave
+- at the entrance from Mountaintops of the Giants
+- before Spiritcaller Snail's arena
+185. Flame Peak
+- before Fire Giant, at the left entrance with lower elevation
+- before Fire Giant, at the right entrance with higher elevation
+- at the entrance to Giant-Conquering Hero's Grave
+186. Flame Peak - Giant-Conquering Hero's Grave
+- at the entrance from Flame Peak
+- before Ancient Hero of Zamor's arena
+187. Fire Giant
+- burning the erdtree at the Forge of the Giants, or repeating the warp using the grace
+
+182. Castle Sol
+- before Commander Niall's arena
+183. Commander Niall
+- at the front of Commander Niall's arena
+- at the back of Commander Niall's arena
+184. After Commander Niall
+- after Commander Niall's arena
+
+------------------FORBIDDEN LANDS---------------------- 052
 125. Forbidden Lands
 - at the exit from Divine Tower of East Altus
 - using the Rold Medallion at Forbidden Lands
 - using the Haligtree secret medallions at Forbidden Lands
 
 
------------------ETERNAL CITIES------------------------
+-----------------ETERNAL CITIES------------------------ 060 + 061
 
 13. Siofra River
 - at the top of the Siofra River Well
@@ -754,8 +862,7 @@
 - after Valiant Gargoyles in the small room next to the main entrance
 
 
-
-------------------DEEPROOT DEPTHS--------------------------
+------------------DEEPROOT DEPTHS-------------------------- 062
 
 151. Deeproot Depths
 - before the Deeproot Depths boss arena
@@ -764,71 +871,7 @@
 - at the front of the Deeproot Depths boss arena
 - using the sending gate after Fia's Champions
 
-
-----------------------MT GELMIR-----------------------
-
-154. Mt. Gelmir Overworld
-- at the entrance to Volcano Manor
-- at the entrance to Wyndham Catacombs
-- at the entrance to Gelmir Hero's Grave
-- at the entrance to Seethewater Cave, with Stonesword Key
-- at the entrance to Volcano Cave
-
-155. Before Volcano Manor Entrance
-- at the doorway from Mt. Gelmir
-156. Mt. Gelmir - Wyndham Catacombs
-- at the entrance from Mt. Gelmir
-- before Erdtree Burial Watchdog's arena
-157. Mt. Gelmir - Gelmir Hero's Grave
-- at the entrance from Mt. Gelmir
-- before Red Wolf of the Champion's arena
-158. Mt. Gelmir - Seethewater Cave
-- at the entrance from Mt. Gelmir
-- before Kindred of Rot Duo's arena
-159. Mt. Gelmir - Volcano Cave
-- at the entrance from Mt. Gelmir
-- before Demi-Human Queen Margot's arena
-224. Mt. Gelmir - Wyndham Catacombs - Erdtree Burial Watchdog
-- at the front of Erdtree Burial Watchdog's arena
-226. Mt. Gelmir - Gelmir Hero's Grave - Red Wolf of the Champion
-- at the front of Red Wolf of the Champion's arena
-249. Mt. Gelmir - Seethewater Cave - Kindred of Rot Duo
-- at the front of Kindred of Rot Duo's arena
-250. Mt. Gelmir - Volcano Cave - Demi-Human Queen Margot
-- at the front of Demi-Human Queen Margot's arena
-
-
-----------------VOLCANO MANOR---------------------
-
-160. Volcano Manor Drawing Room
-- at the end of the dark hallway leading to Prison Town
-161. Volcano Manor Prison Town Church
-- behind the altar coming from the manor
-162. Volcano Manor Prison Town
-- before Abductor Virgins' arena. it can be reached from main town dropping down outside Temple of Eiglay
-- before Godskin Noble's arena
-163. Volcano Manor - Abductor Virgins
-- at the front of Abductor Virgins' arena
-- at the back of Abductor Virgins' arena
-164. Volcano Manor - Temple of Eiglay
-- at the front of Godskin Noble's arena
-- at the back left of Godskin Noble's arena
-165. Volcano Manor - Temple of Eiglay Shortcut Elevator
-- after Godskin Noble's arena to the back left, down the shortcut elevator
-166. Volcano Manor - Hallway Opposite Sending Gate
-- in the hallway towards the Imp Seal back to main Volcano Manor
-167. Volcano Manor - Room Before Sending Gate
-- on the doorway on the second story opposite the Sending Gate
-- using the Sending Gate after Volcano Manor temple
-168. Volcano Manor - Audience Pathway
-- before Rykard's arena
-169. Rykard, Lord of Blasphemy
-- at the front of Rykard's arena
-170. Volcano Manor - After Abductor Virgins
-- after Abductor Virgins' arena
-
-
-----------------RANNI'S QUESTLINE---------------------
+----------------RANNI'S QUESTLINE--------------------- 063
 
 174. Lake of Rot
 - resting in the coffin at the bottom of the Grand Cloister
@@ -844,48 +887,20 @@
 - at the Deep Ainsel Well
 - entering Ringleader's Evergaol
 
+---------------------MOHGWYN PALACE------------------- 064
 
-------------------MOUTAINTOPS---------------------------
-
-179. Mountaintops of the Giants Overworld
-- using the Rold Medallion at Mountaintops of the Giants
-- at the entrance to Giants' Mountaintop Catacombs
-- at the entrance to Spiritcaller Cave, with Stonesword Key
-- entering Lord Contender's Evergaol
-
-263. Mountaintops - Spiritcaller Cave - Spiritcaller Snail
-- at the front of Spiritcaller Snail's arena
-
-241. Flame Peak - Giant-Conquering Hero's Grave - Ancient Hero of Zamor
-- at the front of Ancient Hero of Zamor's arena
-242. Flame Peak - Giants' Mountaintop Catacombs - Ulcerated Tree Spirit
-- at the front of Ulcerated Tree Spirit's arena
-180. Flame Peak - Giants' Mountaintop Catacombs
-- at the entrance from Mountaintops of the Giants
-- before Ulcerated Tree Spirit's arena
-181. Mountaintops - Spiritcaller Cave
-- at the entrance from Mountaintops of the Giants
-- before Spiritcaller Snail's arena
-185. Flame Peak
-- before Fire Giant, at the left entrance with lower elevation
-- before Fire Giant, at the right entrance with higher elevation
-- at the entrance to Giant-Conquering Hero's Grave
-186. Flame Peak - Giant-Conquering Hero's Grave
-- at the entrance from Flame Peak
-- before Ancient Hero of Zamor's arena
-187. Fire Giant
-- burning the erdtree at the Forge of the Giants, or repeating the warp using the grace
-
-182. Castle Sol
-- before Commander Niall's arena
-183. Commander Niall
-- at the front of Commander Niall's arena
-- at the back of Commander Niall's arena
-184. After Commander Niall
-- after Commander Niall's arena
+207. Mohgwyn Palace
+- before Mohg's arena
+208. Mohg, Lord of Blood
+- at the front of Mohg's arena
+- at the back right of Mohg's arena
+- at the back left of Mohg's arena
+209. After Mohg, Lord of Blood
+- after Mohg's arena at the back right
+- after Mohg's arena at the back left
 
 
---------------------FARUM AZULA-----------------------
+--------------------FARUM AZULA----------------------- 070
 
 188. Farum Azula - Dragon Temple
 - before back right of Godskin Duo arena, down Dragon Temple stairs
@@ -912,7 +927,7 @@
 - down the elevator from Dragon Temple Lift grace
 
 
---------------------CONSECRATED SNOWFIELD--------------------
+--------------------CONSECRATED SNOWFIELD-------------------- 080 + 081
 
 196. Consecrated Snowfield Overworld
 - at Hidden Path to Haligtree dungeon exit
@@ -941,20 +956,7 @@
 - at the front of Astel, Stars of Darkness' arena
 
 
----------------------MOHGWYN PALACE-------------------
-
-207. Mohgwyn Palace
-- before Mohg's arena
-208. Mohg, Lord of Blood
-- at the front of Mohg's arena
-- at the back right of Mohg's arena
-- at the back left of Mohg's arena
-209. After Mohg, Lord of Blood
-- after Mohg's arena at the back right
-- after Mohg's arena at the back left
-
-
----------------------HALIGTREE------------------------
+---------------------HALIGTREE------------------------ 082
 
 195. Hidden Path to the Haligtree
 - at exit to Consecrated Snowfield
