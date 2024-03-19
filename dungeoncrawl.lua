@@ -349,7 +349,7 @@ Caelid - Abandoned Cave
 Caelid - Abandoned Cave - Cleanrot Knights
 03127. at the front of Cleanrot Knights' arena
 
---------------------CASTLE REDMANE-----------------------
+--------------------CASTLE REDMANE----------------------- 032
 
 Castle Redmane
 03201. before Redmane Castle Plaza
@@ -375,7 +375,7 @@ Caelid - War-Dead Catacombs - Putrid Tree Spirit
 09301. using the new sending gate on the cliffside path before Redmane Castle
 
 
----------------DRAGONBARROW-------------------------
+---------------DRAGONBARROW------------------------- 033
 
 -- 03301-03306. missing
 
@@ -410,7 +410,7 @@ Dragonbarrow Cave - Beastmen of Farum Azula
 09303. entering a new evergaol-style object in Dragonbarrow Cave
 
 
----------------------ALTUS PLATEAU-----------------------
+---------------------ALTUS PLATEAU----------------------- 040 + 041
 
 -- 04001-04011. missing
 
@@ -473,7 +473,7 @@ Shaded Castle - Elemer of the Briar
 09401. entering a new evergaol-style object in Unsightly Catacombs
 09402. using the new sending gate before the Shaded Castle swamp
 
-------------------CAPITAL OUTSKIRTS---------------------
+------------------CAPITAL OUTSKIRTS-------------------- 042
 
 -- 04201-04205. missing
 
@@ -521,336 +521,379 @@ Capital Outskirts - Auriza Side Tomb - Dupe Entrance
 04228. using the chest in the duplicate jail
 
 
-----------------------MT GELMIR-----------------------
+----------------------MT GELMIR--------------------- 043
 
-102. Before Volcano Manor Entrance
-- at the doorway from Mt. Gelmir
-164. Mt. Gelmir - Wyndham Catacombs
-- before Erdtree Burial Watchdog's arena
-- at the entrance from Mt. Gelmir
-165. Mt. Gelmir - Wyndham Catacombs - Erdtree Burial Watchdog
-- at the front of Erdtree Burial Watchdog's arena
-168. Mt. Gelmir - Gelmir Hero's Grave
-- before Red Wolf of the Champion's arena
-- at the entrance from Mt. Gelmir
-169. Mt. Gelmir - Gelmir Hero's Grave - Red Wolf of the Champion
-- at the front of Red Wolf of the Champion's arena
-208. Mt. Gelmir - Seethewater Cave
-- before Kindred of Rot Duo's arena
-- at the entrance from Mt. Gelmir
-209. Mt. Gelmir - Seethewater Cave - Kindred of Rot Duo
-- at the front of Kindred of Rot Duo's arena
-210. Mt. Gelmir - Volcano Cave
-- before Demi-Human Queen Margot's arena
-- at the entrance from Mt. Gelmir
-211. Mt. Gelmir - Volcano Cave - Demi-Human Queen Margot
-- at the front of Demi-Human Queen Margot's arena
+-- 04301-04305. missing
+
+Before Volcano Manor Entrance
+04306. at the doorway from Mt. Gelmir
+Mt. Gelmir - Wyndham Catacombs
+04307. at the entrance from Mt. Gelmir
+04308. before Erdtree Burial Watchdog's arena
+Mt. Gelmir - Wyndham Catacombs - Erdtree Burial Watchdog
+04309. at the front of Erdtree Burial Watchdog's arena
+
+Mt. Gelmir - Gelmir Hero's Grave
+04310. at the entrance from Mt. Gelmir
+04311. before Red Wolf of the Champion's arena
+Mt. Gelmir - Gelmir Hero's Grave - Red Wolf of the Champion
+04312. at the front of Red Wolf of the Champion's arena
+
+Mt. Gelmir - Seethewater Cave
+04313. at the entrance from Mt. Gelmir
+04314. before Kindred of Rot Duo's arena
+Mt. Gelmir - Seethewater Cave - Kindred of Rot Duo
+04315. at the front of Kindred of Rot Duo's arena
+
+Mt. Gelmir - Volcano Cave
+04316. at the entrance from Mt. Gelmir
+04317. before Demi-Human Queen Margot's arena
+ Mt. Gelmir - Volcano Cave - Demi-Human Queen Margot
+04318. at the front of Demi-Human Queen Margot's arena
 
 
-----------------VOLCANO MANOR---------------------
+----------------VOLCANO MANOR--------------------- 044
 
-103. Volcano Manor Drawing Room
-- at the end of the dark hallway leading to Prison Town
-104. Volcano Manor Prison Town Church
-- behind the altar coming from the manor
-105. Volcano Manor Prison Town
-- before Abductor Virgins' arena. it can be reached from main town dropping down outside Temple of Eiglay
-- before Godskin Noble's arena
-106. Volcano Manor - Abductor Virgins
-- at the front of Abductor Virgins' arena
-- at the back of Abductor Virgins' arena
-107. Volcano Manor - Temple of Eiglay
-- at the front of Godskin Noble's arena
-- at the back left of Godskin Noble's arena
-108. Volcano Manor - Temple of Eiglay Shortcut Elevator
-- after Godskin Noble's arena to the back left, down the shortcut elevator
-109. Volcano Manor - Hallway Opposite Sending Gate
-- in the hallway towards the Imp Seal back to main Volcano Manor
-110. Volcano Manor - Room Before Sending Gate
-- on the doorway on the second story opposite the Sending Gate
-- using the Sending Gate after Volcano Manor temple
-111. Volcano Manor - Audience Pathway
-- before Rykard's arena
-112. Rykard, Lord of Blasphemy
-- at the front of Rykard's arena
+Volcano Manor Drawing Room
+04401. at the end of the dark hallway leading to Prison Town
 
---------------------LEYNDELL-------------------------------
+Volcano Manor Prison Town Church
+04402. behind the altar coming from the manor
+ Volcano Manor Prison Town
+04403. before Abductor Virgins' arena. it can be reached from main town dropping down outside Temple of Eiglay
+04404. before Godskin Noble's arena
 
-59. Leyndell
-- before Godfrey's arena from the branches
-- at the Leyndell entrance from Capital Rampart
-- at the entrance to Subterranean Shunning-Grounds
-- at the entrance to Royal Colosseum
-60. Leyndell - Erdtree Sanctuary
-- in Godfrey's arena at the normal South entrance from the branches
-- in Godfrey's arena at the West entrance to the Marika statue
-- in Godfrey's arena at the rightmost East exit, the one without the branch
-- in Godfrey's arena at the leftmost East exit, the one with the branch
-- in Godfrey's arena at the Southwest exit with a shortcut ladder behind it
-- in Godfrey's arena at the Southeast exit with treasure behind it
-- in Godfrey's arena at the center East exit
-62. Leyndell - Divine Bridge
-- using the sending gate after unlocking the elevator in Leyndell or unlocking Ashen Divine Bridge
-63. Leyndell - Erdtree Sanctuary Stairs
-- outside of Godfrey's arena at the stairs which go down to the Marika statue
-64. Leyndell - Behind Erdtree Sanctuary
-- outside of Godfrey's arena at the leftmost back exit, the one without the branch
-- outside of Godfrey's arena at the rightmost back exit, the one with the branch
-- outside of Godfrey's arena at the center back exit
-65. Leyndell - Queen's Bedchamber
-- outside of Godfrey's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
-- before Morgott's arena
-66. Leyndell - Erdtree Sanctuary Treasure
-- outside of Godfrey's arena with a treasure item
-67. Leyndell - Elden Throne
-- at the front of Morgott's arena
-- at the back of Morgott's arena
-68. Leyndell - Erdtree Entrance
-- the path up to the Erdtree
-69. Leyndell - before Divine Tower
-- at the base of the elevator to the Divine Tower of East Altus
-70. Divine Tower of East Altus Start
-- at the elevator to the Divine Tower of East Altus
-71. Divine Tower of East Altus
-- approaching the Divine Tower of East Altus gate, or using the grace menu
-- at the exit to Forbidden Lands
+Volcano Manor - Abductor Virgins
+04405. at the front of Abductor Virgins' arena
+04406. at the back of Abductor Virgins' arena
+-- 04407. missing
+
+Volcano Manor - Temple of Eiglay
+04408. at the front of Godskin Noble's arena
+04409. at the back left of Godskin Noble's arena
+Volcano Manor - Temple of Eiglay Shortcut Elevator
+04410. after Godskin Noble's arena to the back left, down the shortcut elevator
+
+Volcano Manor - Hallway Opposite Sending Gate
+04411. in the hallway towards the Imp Seal back to main Volcano Manor
+Volcano Manor - Room Before Sending Gate
+04412. on the doorway on the second story opposite the Sending Gate
+04413. using the Sending Gate after Volcano Manor temple
+
+Volcano Manor - Audience Pathway
+04414. before Rykard's arena
+ Rykard, Lord of Blasphemy
+04415. at the front of Rykard's arena
+
+--------------------LEYNDELL------------------------------ 045
+
+-- 04501. missing
+
+Leyndell
+04502. before Godfrey's arena from the branches
+04503. at the Leyndell entrance from Capital Rampart
+04504. at the entrance to Subterranean Shunning-Grounds
+04505. at the entrance to Royal Colosseum
+
+Leyndell - Erdtree Sanctuary
+04506. in Godfrey's arena at the normal South entrance from the branches
+04507. in Godfrey's arena at the West entrance to the Marika statue
+04508. in Godfrey's arena at the rightmost East exit, the one without the branch
+04509. in Godfrey's arena at the leftmost East exit, the one with the branch
+04510. in Godfrey's arena at the Southwest exit with a shortcut ladder behind it
+04511. in Godfrey's arena at the Southeast exit with treasure behind it
+04512. in Godfrey's arena at the center East exit
+
+Leyndell - Erdtree Sanctuary Stairs
+04513. outside of Godfrey's arena at the stairs which go down to the Marika statue
+Leyndell - Behind Erdtree Sanctuary
+04514. outside of Godfrey's arena at the leftmost back exit, the one without the branch
+04515. outside of Godfrey's arena at the rightmost back exit, the one with the branch
+04516. outside of Godfrey's arena at the center back exit
+
+Leyndell - Erdtree Sanctuary Treasure
+04517. outside of Godfrey's arena with a treasure item
+
+Leyndell - Queen's Bedchamber
+04518. outside of Godfrey's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
+04519. before Morgott's arena
+Leyndell - Elden Throne
+04520. at the front of Morgott's arena
+04521. at the back of Morgott's arena
+Leyndell - Erdtree Entrance
+04522. the path up to the Erdtree
+
+Leyndell - Divine Bridge
+04523. using the sending gate after unlocking the elevator in Leyndell or unlocking Ashen Divine Bridge
+
+Leyndell - before Divine Tower
+04524. at the base of the elevator to the Divine Tower of East Altus
+ Divine Tower of East Altus Start
+04525. at the elevator to the Divine Tower of East Altus
+ Divine Tower of East Altus
+04526. approaching the Divine Tower of East Altus gate, or using the grace menu
+04527. at the exit to Forbidden Lands
 
 
 ------------------ASHEN LEYNDELL------------------------
 
-142. Ashen Leyndell
-- at the front entrance to Gideon's arena
-- at the Ashen Capital entrance from Capital Rampart
-- at the entrance to Royal Colosseum
-143. Ashen Leyndell - Erdtree Sanctuary
-- at the front of Gideon's arena
-- in Gideon's arena at the South entrance by the branches
-- in Gideon's arena at the rightmost East exit, the one without the branch
-- in Gideon's arena at the leftmost East exit, the one with the branch
-- in Gideon's arena at the Southwest exit with a shortcut ladder behind it
-- in Gideon's arena at the Southeast exit with treasure behind it
-- in Gideon's arena at the center East exit
-144. Ashen Leyndell - before Divine Tower
-- at the base of the elevator to the Divine Tower of East Altus
-145. Ashen Leyndell - South of Erdtree Sanctuary
-- at the side entrance to Gideon's arena from the branches
-146. Ashen Leyndell - Behind Erdtree Sanctuary
-- outside of Gideon's arena at the leftmost back exit, the one without the branch
-- outside of Gideon's arena at the rightmost back exit, the one with the branch
-- outside of Gideon's arena at the center back exit
-147. Ashen Leyndell - Queen's Bedchamber
-- outside of Gideon's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
-- before Hoarah Loux's arena
-148. Ashen Leyndell - Elden Throne
-- at the front of Hoarah Loux's arena
-- at the back of Hoarah Loux's arena
+Ashen Leyndell
+04601. at the Ashen Capital entrance from Capital Rampart
+04602. at the front entrance to Gideon's arena
+04603. at the entrance to Royal Colosseum
+
+Ashen Leyndell - Erdtree Sanctuary
+04604. at the front of Gideon's arena
+04605. in Gideon's arena at the South entrance by the branches
+04606. in Gideon's arena at the rightmost East exit, the one without the branch
+04607. in Gideon's arena at the leftmost East exit, the one with the branch
+04608. in Gideon's arena at the Southwest exit with a shortcut ladder behind it
+04609. in Gideon's arena at the Southeast exit with treasure behind it
+04610. in Gideon's arena at the center East exit
+
+Ashen Leyndell - South of Erdtree Sanctuary
+04611. at the side entrance to Gideon's arena from the branches
+ Ashen Leyndell - Behind Erdtree Sanctuary
+04612. outside of Gideon's arena at the leftmost back exit, the one without the branch
+04613. outside of Gideon's arena at the rightmost back exit, the one with the branch
+04614. outside of Gideon's arena at the center back exit
+
+Ashen Leyndell - Queen's Bedchamber
+04615. outside of Gideon's arena at the base of a shortcut ladder, accessed from an open window on a second-floor rooftop
+04616. before Hoarah Loux's arena
+ Ashen Leyndell - Elden Throne
+ 04617. at the front of Hoarah Loux's arena
+ 04618. at the back of Hoarah Loux's arena
+ 
+ Ashen Leyndell - before Divine Tower
+04619. at the base of the elevator to the Divine Tower of East Altus
 
 
-----------------SUBTERRANEAN SHUNNING-GROUNDS------------------
+----------------SUBTERRANEAN SHUNNING-GROUNDS---------------- 047
 
-61. Subterranean Shunning-Grounds - From Royal Capital
-- at the entrance from Leyndell, Royal Capital
-72. Subterranean Shunning-Grounds
-- before Mohg's arena
-- at the entrance to Leyndell Catacombs at the bottom of the room with the pipes
-73. Mohg, the Omen
-- at the front of Mohg's arena
+Subterranean Shunning-Grounds - From Royal Capital
+04701. at the entrance from Leyndell, Royal Capital
+ Subterranean Shunning-Grounds
+04702. before Mohg's arena
+04703. at the entrance to Leyndell Catacombs at the bottom of the room with the pipes
+Mohg, the Omen
+04704. at the front of Mohg's arena
 
-74. Leyndell Catacombs
-- at the entrance from Subterranean Shunning-Grounds
-- before Esgar, Priest of Blood's arena
-75. Leyndell Catacombs - Esgar, Priest of Blood
-- at the front of Esgar, Priest of Blood's arena
+Leyndell Catacombs
+04705. at the entrance from Subterranean Shunning-Grounds
+04706. before Esgar, Priest of Blood's arena
+Leyndell Catacombs - Esgar, Priest of Blood
+04707. at the front of Esgar, Priest of Blood's arena
 
+------------------MOUTAINTOPS--------------------------- 050 + 051
 
------------------ETERNAL CITIES------------------------
+-- 05001-05004. missing (overworld)
 
-38. Siofra River
-- at the top of the Siofra River Well
-- at the top of the Deep Siofra Well
-- using Horned Remains in Siofra
-- using the sending gate after the Siofra River Bank grace
-- using the sending gate after the Worshippers' Woods grace
-- using the sending gate atop rubble before the Worshippers' Woods grace
-39. Siofra River before Ancestor Spirit
-- before Ancestor Spirit's arena
-40. Ancestor Spirit
-- at the front of Ancestor Spirit's arena
+Mountaintops - Spiritcaller Cave
+05101. at the entrance from Mountaintops of the Giants
+05102. before Spiritcaller Snail's arena
+ Mountaintops - Spiritcaller Cave - Spiritcaller Snail
+05103. at the front of Spiritcaller Snail's arena
 
-41. Ainsel River Downstream
-- before Dragonkin of Nokstella's arena
-- at the top of the Ainsel River Well
-42. Dragonkin Soldier of Nokstella
-- at the front of Dragonkin of Nokstella's arena
-- at the back of Dragonkin of Nokstella's arena
-43. Above Ainsel River Downstream
-- after the tunnel from Ainsel River Main
-44. Ainsel River Main
-- in the tunnel leading to Ainsel River Downstream
-45. After Dragonkin Soldier of Nokstella
-- after Dragonkin of Nokstella
+-- 05104-05106. missing (overworld)
 
-89. Nokron from Limgrave
-- at the start of Nokron from Limgrave
-90. Nokron before Mimic Tear
-- before Mimic Tear's arena
-91. Mimic Tear
-- at the front of Mimic Tear's arena
-- at the side exit of Mimic Tear's arena
-92. Nokron - Ancestral Woods
-- after Mimic Tear's arena
-- using Horned Remains in Nokron
-93. Nokron - Night's Sacred Grounds
-- using the sending gate before the Fingerslayer Blade chest
-94. Nokron - Aqueduct-Facing Cliffs
-- before Valiant Gargoyles' arena
-95. Valiant Gargoyles
-- at the main entrance of Valiant Gargoyles' arena
-- at the side entrance to Valiant Gargoyles' arena, next to the main entrance
-- resting in the coffin after defeating the boss
-96. Nokron - Aqueduct-Facing Cliffs Room
-- after Valiant Gargoyles in the small room next to the main entrance
-97. Before Regal Ancestor Spirit
-- before Regal Ancestor Spirit's arena
-98. Regal Ancestor Spirit
-- at the front of Regal Ancestor Spirit's arena
+Flame Peak - Giant-Conquering Hero's Grave
+05107. at the entrance from Flame Peak
+05108. before Ancient Hero of Zamor's arena
+ Flame Peak - Giant-Conquering Hero's Grave - Ancient Hero of Zamor
+05109. at the front of Ancient Hero of Zamor's arena
+
+Flame Peak - Giants' Mountaintop Catacombs
+05110. at the entrance from Mountaintops of the Giants
+05111. before Ulcerated Tree Spirit's arena
+Flame Peak - Giants' Mountaintop Catacombs - Ulcerated Tree Spirit
+05112. at the front of Ulcerated Tree Spirit's arena
+
+ Fire Giant
+ 05113. burning the erdtree at the Forge of the Giants, or repeating the warp using the grace
+ 
+ Castle Sol
+05114. before Commander Niall's arena
+ Commander Niall
+05115. at the front of Commander Niall's arena
+05116. at the back of Commander Niall's arena
+ After Commander Niall
+05117. after Commander Niall's arena
+ 
+09501. in the left front of Fire Giant's arena, closer to the forge
+09502. in the right front of Fire Giant's arena, farther from the forge
+09503. entering a new evergaol-style object in Giants' Mountaintop Catacombs
+09504. using the new sending gate at the Castle Sol entrance
+
+------------------FORBIDDEN LANDS---------------------- 052
+
+-- 05201-05203. missing
+
+-----------------ETERNAL CITIES------------------------ 060 + 061
+
+Siofra River
+06001. at the top of the Siofra River Well
+06002. at the top of the Deep Siofra Well
+06003. using Horned Remains in Siofra
+06004. using the sending gate after the Siofra River Bank grace
+06005. using the sending gate after the Worshippers' Woods grace
+06006. using the sending gate atop rubble before the Worshippers' Woods grace
+
+Siofra River before Ancestor Spirit
+06007. before Ancestor Spirit's arena
+ Ancestor Spirit
+06008. at the front of Ancestor Spirit's arena
+
+Nokron from Limgrave
+06009. at the start of Nokron from Limgrave
+Nokron before Mimic Tear
+06010. before Mimic Tear's arena
+Mimic Tear
+06011. at the front of Mimic Tear's arena
+06012. at the side exit of Mimic Tear's arena
+Nokron - Ancestral Woods
+06013. after Mimic Tear's arena
+06014. using Horned Remains in Nokron
+Before Regal Ancestor Spirit
+06015. before Regal Ancestor Spirit's arena
+Regal Ancestor Spirit
+06016. at the front of Regal Ancestor Spirit's arena
+
+Nokron - Night's Sacred Grounds
+06017. using the sending gate before the Fingerslayer Blade chest
+
+Nokron - Aqueduct-Facing Cliffs
+06018. before Valiant Gargoyles' arena
+Valiant Gargoyles
+06019. at the main entrance of Valiant Gargoyles' arena
+06020. at the side entrance to Valiant Gargoyles' arena, next to the main entrance
+06021. resting in the coffin after defeating the boss
+Nokron - Aqueduct-Facing Cliffs Room
+06022. after Valiant Gargoyles in the small room next to the main entrance
+
+Above Ainsel River Downstream
+06101. after the tunnel from Ainsel River Main
+Ainsel River Main
+06102. in the tunnel leading to Ainsel River Downstream
+
+Ainsel River Downstream
+06103. at the top of the Ainsel River Well
+06104. before Dragonkin of Nokstella's arena
+
+Dragonkin Soldier of Nokstella
+06105. at the front of Dragonkin of Nokstella's arena
+06106. at the back of Dragonkin of Nokstella's arena
+After Dragonkin Soldier of Nokstella
+06107. after Dragonkin of Nokstella
 
 
 ------------------DEEPROOT DEPTHS--------------------------
 
-99. Deeproot Depths
-- before the Deeproot Depths boss arena
-- resting in the coffin by the Nameless Eternal City grace
-100. Deeproot Depths - Fia's Champions
-- at the front of the Deeproot Depths boss arena
-- using the sending gate after Fia's Champions
-
-
-
+Deeproot Depths
+06201. before the Deeproot Depths boss arena
+06202. resting in the coffin by the Nameless Eternal City grace
+ Deeproot Depths - Fia's Champions
+06203. at the front of the Deeproot Depths boss arena
+06204. using the sending gate after Fia's Champions
 
 
 ----------------RANNI'S QUESTLINE---------------------
 
-117. Lake of Rot
-- resting in the coffin at the bottom of the Grand Cloister
-118. Before Astel, Naturalborn of the Void
-- before Astel's arena
-119. Astel, Naturalborn of the Void
-- at the front of Astel's arena
-- at the back of Astel's arena
-120. Deep Ainsel Well
-- after Astel's arena
-- at the top of the Deep Ainsel Well
+Lake of Rot
+06301. resting in the coffin at the bottom of the Grand Cloister
+ Before Astel, Naturalborn of the Void
+06302. before Astel's arena
+ Astel, Naturalborn of the Void
+06303. at the front of Astel's arena
+06304. at the back of Astel's arena
+ Deep Ainsel Well
+06305. after Astel's arena
+06306. at the top of the Deep Ainsel Well
 
+-- 06307. 06308. missing
 
-------------------MOUTAINTOPS---------------------------
+---------------------MOHGWYN PALACE-------------------
 
-121. Castle Sol
-- before Commander Niall's arena
-- using the new sending gate at the Castle Sol entrance
-122. Commander Niall
-- at the front of Commander Niall's arena
-- at the back of Commander Niall's arena
-123. After Commander Niall
-- after Commander Niall's arena
-124. Fire Giant
-- in the left front of Fire Giant's arena, closer to the forge
-- in the right front of Fire Giant's arena, farther from the forge
-- burning the erdtree at the Forge of the Giants, or repeating the warp using the grace
-231. Mountaintops - Spiritcaller Cave
-- before Spiritcaller Snail's arena
-- at the entrance from Mountaintops of the Giants
-232. Mountaintops - Spiritcaller Cave - Spiritcaller Snail
-- at the front of Spiritcaller Snail's arena
-190. Flame Peak - Giant-Conquering Hero's Grave
-- before Ancient Hero of Zamor's arena
-- at the entrance from Flame Peak
-191. Flame Peak - Giant-Conquering Hero's Grave - Ancient Hero of Zamor
-- at the front of Ancient Hero of Zamor's arena
-192. Flame Peak - Giants' Mountaintop Catacombs
-- before Ulcerated Tree Spirit's arena
-- at the entrance from Mountaintops of the Giants
-- entering a new evergaol-style object in Giants' Mountaintop Catacombs
-193. Flame Peak - Giants' Mountaintop Catacombs - Ulcerated Tree Spirit
-- at the front of Ulcerated Tree Spirit's arena
-
+Mohgwyn Palace
+06401. before Mohg's arena
+ Mohg, Lord of Blood
+06402. at the front of Mohg's arena
+06403. at the back right of Mohg's arena
+06404. at the back left of Mohg's arena
+ After Mohg, Lord of Blood
+06405. after Mohg's arena at the back right
+06406. after Mohg's arena at the back left
 
 --------------------FARUM AZULA-----------------------
 
-125. Farum Azula - Dragon Temple
-- before back right of Godskin Duo arena, down Dragon Temple stairs
-- before back left of Godskin Duo arena, by the crumbled stairs
-- outside the balcony above Godskin Duo's arena
-126. Godskin Duo
-- at the back right of Godskin Duo's arena
-- at the back left of Godskin Duo's arena
-- at the front right of Godskin Duo's arena
-- at the front left of Godskin Duo's arena
-127. Farum Azula - Dragon Temple Balcony
-- on the balcony above Godskin Duo's arena
-128. Farum Azula - Dragon Temple Transept
-- up the stairs from Dragon Temple Transept
-129. Farum Azula Rooftop and Bridge
-- after Godskin Duo arena
-- before Maliketh's arena
-- lying down in front of the tempest below the great bridge
-- at the Imp Seal leading up to the Dragon Temple Lift grace
-130. Maliketh the Black Blade
-- at the front of Maliketh's arena
-- warp after defeathing Maliketh, or repeating the warp using the grace
-131. Farum Azula - Dragon Temple Lift
-- down the elevator from Dragon Temple Lift grace
+Farum Azula - Dragon Temple
+07001. before back right of Godskin Duo arena, down Dragon Temple stairs
+07002. before back left of Godskin Duo arena, by the crumbled stairs
+07003. outside the balcony above Godskin Duo's arena
+ Godskin Duo
+07004. at the back right of Godskin Duo's arena
+07005. at the back left of Godskin Duo's arena
+07006. at the front right of Godskin Duo's arena
+07007. at the front left of Godskin Duo's arena
+ Farum Azula - Dragon Temple Balcony
+07008. on the balcony above Godskin Duo's arena
+ Farum Azula - Dragon Temple Transept
+07009. up the stairs from Dragon Temple Transept
+ Farum Azula Rooftop and Bridge
+07010. after Godskin Duo arena
+07011. before Maliketh's arena
+07012. lying down in front of the tempest below the great bridge
+07013. at the Imp Seal leading up to the Dragon Temple Lift grace
+ Maliketh the Black Blade
+07014. at the front of Maliketh's arena
+07015. warp after defeathing Maliketh, or repeating the warp using the grace
+ Farum Azula - Dragon Temple Lift
+07016. down the elevator from Dragon Temple Lift grace
 
 
 --------------------CONSECRATED SNOWFIELD--------------------
 
-194. Consecrated Snowfield Catacombs
-- before Putrid Grave Warden Duelist's arena
-- at the entrance from Consecrated Snowfield
-- entering a new evergaol-style object in Consecrated Snowfield Catacombs
-195. Consecrated Snowfield Catacombs - Putrid Grave Warden Duelist
-- at the front of Putrid Grave Warden Duelist's arena
-216. Consecrated Snowfield - Cave of the Forlorn
-- before Misbegotten Crusader's arena
-- at the entrance from Consecrated Snowfield
-217. Consecrated Snowfield - Cave of the Forlorn - Misbegotten Crusader
-- at the front of Misbegotten Crusader's arena
-249. Consecrated Snowfield - Yelough Anix Tunnel
-- before Astel, Stars of Darkness' arena
-- at the entrance from Consecrated Snowfield
-250. Consecrated Snowfield - Yelough Anix Tunnel - Astel, Stars of Darkness
-- at the front of Astel, Stars of Darkness' arena
+-- 08001-08008. missing
 
+Consecrated Snowfield Catacombs
+08101. at the entrance from Consecrated Snowfield
+08102. before Putrid Grave Warden Duelist's arena
+Consecrated Snowfield Catacombs - Putrid Grave Warden Duelist
+08103. at the front of Putrid Grave Warden Duelist's arena
 
----------------------MOHGWYN PALACE-------------------
+Consecrated Snowfield - Yelough Anix Tunnel
+08104. at the entrance from Consecrated Snowfield
+08105. before Astel, Stars of Darkness' arena
+Consecrated Snowfield - Yelough Anix Tunnel - Astel, Stars of Darkness
+08106. at the front of Astel, Stars of Darkness' arena
 
-139. Mohgwyn Palace
-- before Mohg's arena
-140. Mohg, Lord of Blood
-- at the front of Mohg's arena
-- at the back right of Mohg's arena
-- at the back left of Mohg's arena
-141. After Mohg, Lord of Blood
-- after Mohg's arena at the back right
-- after Mohg's arena at the back left
+Consecrated Snowfield - Cave of the Forlorn
+08107. at the entrance from Consecrated Snowfield
+08108. before Misbegotten Crusader's arena
+ Consecrated Snowfield - Cave of the Forlorn - Misbegotten Crusader
+08109. at the front of Misbegotten Crusader's arena
+
+09801. entering a new evergaol-style object in Consecrated Snowfield Catacombs
+
 
 
 ---------------------HALIGTREE------------------------
 
-132. Hidden Path to the Haligtree
-- at exit to Consecrated Snowfield
-- before Stray Mimic Tear's arena
-133. Hidden Path to the Haligtree - Stray Mimic Tear
-- at the front of Stray Mimic Tear's arena
+Hidden Path to the Haligtree
+08201. at exit to Consecrated Snowfield
+08202. before Stray Mimic Tear's arena
+ Hidden Path to the Haligtree - Stray Mimic Tear
+08203. at the front of Stray Mimic Tear's arena
+-- 08204. missing
 
-134. Haligtree Town
-- before Loretta's arena
-135. Loretta, Knight of the Haligtree
-- at the front of Loretta's arena
-- at back of Loretta's arena
-136. After Loretta, Knight of the Haligtree
-- after Loretta's arena
-137. Elphael, Brace of the Haligtree
-- before Malenia's arena
-138. Malenia, Blade of Miquella
-- at the front of Malenia's arena
+Haligtree Town
+08205. before Loretta's arena
+ Loretta, Knight of the Haligtree
+08206. at the front of Loretta's arena
+08207. at back of Loretta's arena
+ After Loretta, Knight of the Haligtree
+08208. after Loretta's arena
+ Elphael, Brace of the Haligtree
+08209. before Malenia's arena
+ Malenia, Blade of Miquella
+08210. at the front of Malenia's arena
