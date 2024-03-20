@@ -1,0 +1,16 @@
+{
+	"entrances": {
+		"entrance id": {
+			"fullName": "identifier",
+			"areaFrom": "area name",
+			"areaTo": "vanilla destination",
+			"alias": "wich one in the pannel",
+			"oneWay": false,
+			"oneWayCategory": "",
+			"reverseId": "other side id",
+			"type": "shared",
+			"accessTo": ["id1", "id2", "id3", "etc"],
+			"shuffled": true
+		}
+	}
+}

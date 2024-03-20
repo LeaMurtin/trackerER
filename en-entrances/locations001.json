@@ -1,0 +1,108 @@
+{
+	"entrances": {
+		"00101": {
+			"fullName": "at the exit to Limgrave",
+			"pannel": "Stranded Graveyard",
+			"areaFrom": "Stranded Graveyard",
+			"areaTo": "Limgrave",
+			"alias": "Door to Limgrave",
+			"oneWay": false,
+			"oneWayCategory": "",
+			"reverseId": "01002",
+			"type": "shared",
+			"accessTo": [""],
+			"shuffled": true
+		},
+		"00102": {
+			"fullName": "at the door from Cave of Knowledge",
+			"pannel": "Stranded Graveyard",
+			"areaFrom": "Stranded Graveyard",
+			"areaTo": "Cave of Knowledge",
+			"alias": "Door to Cave of Knowledge",
+			"oneWay": false,
+			"oneWayCategory": "",
+			"reverseId": "00104",
+			"type": "shared",
+			"accessTo": [""],
+			"shuffled": true
+		},
+		"00103": {
+			"fullName": "before Soldier of Godrick's arena",
+			"pannel": "Cave of Knowledge",
+			"areaFrom": "Cave of Knowledge",
+			"areaTo": "Soldier of Godrick's arena",
+			"alias": "before Soldier of Godrick",
+			"oneWay": false,
+			"oneWayCategory": "",
+			"reverseId": "00105",
+			"type": "shared",
+			"accessTo": [],
+			"shuffled": true
+		},
+		"00104": {
+			"fullName": "at the door to Stranded Graveyard",
+			"pannel": "Cave of Knowledge",
+			"areaFrom": "Cave of Knowledge",
+			"areaTo": "Stranded Graveyard",
+			"alias": "Door to Stranded Graveyard",
+			"oneWay": false,
+			"oneWayCategory": "",
+			"reverseId": "00102",
+			"type": "shared",
+			"accessTo": [""],
+			"shuffled": true
+		},
+		"00105": {
+			"fullName": "at the front of Soldier of Godrick's arena",
+			"pannel": "Cave of Knowledge",
+			"areaFrom": "Soldier of Godrick's arena",
+			"areaTo": "Cave of Knowledge",
+			"alias": "Soldier of Godrick front exit",
+			"oneWay": false,
+			"oneWayCategory": "",
+			"reverseId": "00103",
+			"type": "shared",
+			"accessTo": ["00106"],
+			"shuffled": true
+		},
+		"00106": {
+			"fullName": "at the back of Soldier of Godrick's arena",
+			"pannel": "Cave of Knowledge",
+			"areaFrom": "Soldier of Godrick's arena",
+			"areaTo": "Cave of Knowledge after boss",
+			"alias": "Soldier of Godrick back exit",
+			"oneWay": false,
+			"oneWayCategory": "",
+			"reverseId": "00107",
+			"type": "shared",
+			"accessTo": ["00105"],
+			"shuffled": true
+		},
+		"00107": {
+			"fullName": "after Soldier of Godrick's arena",
+			"pannel": "Cave of Knowledge",
+			"areaFrom": "Cave of Knowledge after boss",
+			"areaTo": "Soldier of Godrick's arena",
+			"alias": "after Soldier of Godrick",
+			"oneWay": false,
+			"oneWayCategory": "",
+			"reverseId": "00107",
+			"type": "shared",
+			"accessTo": [""],
+			"shuffled": true
+		},
+		"00108": {
+			"fullName": "at the back entrance from the Seaside Ruins beach",
+			"pannel": "Cave of Knowledge",
+			"areaFrom": "Cave of Knowledge (upper ledge)",
+			"areaTo": "Limgrave",
+			"alias": "back exit to Limgrave",
+			"oneWay": false,
+			"oneWayCategory": "",
+			"reverseId": "01001",
+			"type": "shared",
+			"accessTo": [""],
+			"shuffled": true
+		}
+	}
+}
