@@ -10,7 +10,7 @@
 			"oneWayCategory": "",
 			"reverseId": "01002",
 			"type": "shared",
-			"accessTo": [""],
+			"accessTo": ["00103"],
 			"shuffled": true
 		},
 		"00102": {
@@ -23,7 +23,7 @@
 			"oneWayCategory": "",
 			"reverseId": "00104",
 			"type": "shared",
-			"accessTo": [""],
+			"accessTo": [???],
 			"shuffled": true
 		},
 		"00103": {
@@ -49,7 +49,7 @@
 			"oneWayCategory": "",
 			"reverseId": "00102",
 			"type": "shared",
-			"accessTo": [""],
+			"accessTo": [???],
 			"shuffled": true
 		},
 		"00105": {
@@ -88,7 +88,7 @@
 			"oneWayCategory": "",
 			"reverseId": "00107",
 			"type": "shared",
-			"accessTo": [""],
+			"accessTo": [???],
 			"shuffled": true
 		},
 		"00108": {
@@ -101,7 +101,7 @@
 			"oneWayCategory": "",
 			"reverseId": "01001",
 			"type": "shared",
-			"accessTo": [""],
+			"accessTo": ["00103", "00101", "00102???"],
 			"shuffled": true
 		}
 	}
