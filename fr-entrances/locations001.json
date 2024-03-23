@@ -4,8 +4,8 @@
 			"fullName": "at the exit to Limgrave",
 			"panel": "Stranded Graveyard",
 			"areaFrom": "Stranded Graveyard",
-			"areaTo": "Limgrave",
-			"alias": "Door to Limgrave",
+			"areaTo": "Nécrolimbe",
+			"alias": "Porte vers Nécrolimbe",
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01002",
@@ -23,7 +23,7 @@
 			"oneWayCategory": "",
 			"reverseId": "00104",
 			"type": "shared",
-			"accessTo": ["???"],
+			"accessTo": [???],
 			"shuffled": true
 		},
 		"00103": {
@@ -49,7 +49,7 @@
 			"oneWayCategory": "",
 			"reverseId": "00102",
 			"type": "shared",
-			"accessTo": ["???"],
+			"accessTo": [???],
 			"shuffled": true
 		},
 		"00105": {
@@ -86,9 +86,9 @@
 			"alias": "after Soldier of Godrick",
 			"oneWay": false,
 			"oneWayCategory": "",
-			"reverseId": "00106",
+			"reverseId": "00107",
 			"type": "shared",
-			"accessTo": ["???"],
+			"accessTo": [???],
 			"shuffled": true
 		},
 		"00108": {
