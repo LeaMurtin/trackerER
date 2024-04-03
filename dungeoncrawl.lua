@@ -1,30 +1,30 @@
 ----------------CHAPEL OF ANTICIPATION--------------- 000
 
-Chapel of Anticipation
-00001. before Grafted Scion's arena
-00002. using the Pureblood Knight's Medal from anywhere
-Chapel of Anticipation - Grafted Scion
-00003. at the front of Grafted Scion's arena
+		Chapel of Anticipation
+		00001. before Grafted Scion's arena
+		00002. using the Pureblood Knight's Medal from anywhere
+		Chapel of Anticipation - Grafted Scion
+		00003. at the front of Grafted Scion's arena
 
--- 00004. 00005. missing
+		-- 00004. 00005. missing
 
 
 ----------------STRANDED GRAVEYARD--------------------- 001
 
-Stranded Graveyard
-00101. at the exit to Limgrave
-00102. at the door from Cave of Knowledge
+		Stranded Graveyard
+		00101. at the exit to Limgrave
+		00102. at the door from Cave of Knowledge
 
-Cave of Knowledge
-00103. before Soldier of Godrick's arena
-00104. at the door to Stranded Graveyard
-Cave of Knowledge - Soldier of Godrick
-00105. at the front of Soldier of Godrick's arena
-00106. at the back of Soldier of Godrick's arena
-Cave of Knowledge - After Soldier of Godrick
-00107. after Soldier of Godrick's arena
-Cave of Knowledge - From Seaside Ruins
-00108. at the back entrance from the Seaside Ruins beach
+		Cave of Knowledge
+		00103. before Soldier of Godrick's arena
+		00104. at the door to Stranded Graveyard
+		Cave of Knowledge - Soldier of Godrick
+		00105. at the front of Soldier of Godrick's arena
+		00106. at the back of Soldier of Godrick's arena
+		Cave of Knowledge - After Soldier of Godrick
+		00107. after Soldier of Godrick's arena
+		Cave of Knowledge - From Seaside Ruins
+		00108. at the back entrance from the Seaside Ruins beach
 
 -------------------ROUNDTABLE HOLD-------------------
 
@@ -36,142 +36,142 @@ Roundtable Hold
 
 -----------------LIMGRAVE----------------------------- 010 + 011
 
--- 01001-01016. missing (overworld)
+		-- 01001-01016. missing (overworld)
 
- Limgrave - Fringefolk Hero's Grave
-01101. before Ulcerated Tree Spirit's arena
-Limgrave - Fringefolk Hero's Grave - Ulcerated Tree Spirit
-01102. at the front of Ulcerated Tree Spirit's arena
+		Limgrave - Fringefolk Hero's Grave
+		01101. before Ulcerated Tree Spirit's arena
+		Limgrave - Fringefolk Hero's Grave - Ulcerated Tree Spirit
+		01102. at the front of Ulcerated Tree Spirit's arena
 
- Limgrave - Groveside Cave
-01103. at the entrance from Limgrave
-01104. before Beastman of Farum Azula's arena
-Limgrave - Groveside Cave - Beastman of Farum Azula
-01105. at the front of Beastman of Farum Azula's arena
+		Limgrave - Groveside Cave
+		01103. at the entrance from Limgrave
+		01104. before Beastman of Farum Azula's arena
+		Limgrave - Groveside Cave - Beastman of Farum Azula
+		01105. at the front of Beastman of Farum Azula's arena
 
-Limgrave - Coastal Cave
-01106. at the entrance from Limgrave
-01107. before Demi-Human Chiefs' arena
-Limgrave - Coastal Cave - Demi-Human Chiefs
-01108. at the front of Demi-Human Chiefs' arena
-01109. at the back of Demi-Human Chiefs' arena
-Limgrave - Church of Dragon Communion
-01110. after Coastal Cave boss to Dragon Church
+		Limgrave - Coastal Cave
+		01106. at the entrance from Limgrave
+		01107. before Demi-Human Chiefs' arena
+		Limgrave - Coastal Cave - Demi-Human Chiefs
+		01108. at the front of Demi-Human Chiefs' arena
+		01109. at the back of Demi-Human Chiefs' arena
+		Limgrave - Church of Dragon Communion
+		01110. after Coastal Cave boss to Dragon Church
 
-Limgrave Tunnels
-01111. at the entrance from Limgrave
-01112. before Stonedigger Troll's arena
-Limgrave Tunnels - Stonedigger Troll
-01113. at the front of Stonedigger Troll's arena
+		Limgrave Tunnels
+		01111. at the entrance from Limgrave
+		01112. before Stonedigger Troll's arena
+		Limgrave Tunnels - Stonedigger Troll
+		01113. at the front of Stonedigger Troll's arena
 
-Limgrave - Stormfoot Catacombs
-01114. at the entrance from Limgrave
-01115. before Erdtree Burial Watchdog's arena
-Limgrave - Stormfoot Catacombs - Erdtree Burial Watchdog
-01116. at the front of Erdtree Burial Watchdog's arena
+		Limgrave - Stormfoot Catacombs
+		01114. at the entrance from Limgrave
+		01115. before Erdtree Burial Watchdog's arena
+		Limgrave - Stormfoot Catacombs - Erdtree Burial Watchdog
+		01116. at the front of Erdtree Burial Watchdog's arena
 
-Limgrave - Murkwater Cave
-01117. at the entrance from Limgrave
-01118. before Patches' arena
-Limgrave - Murkwater Cave - Patches
-01119. at the front of Patches' arena
+		Limgrave - Murkwater Cave
+		01117. at the entrance from Limgrave
+		01118. before Patches' arena
+		Limgrave - Murkwater Cave - Patches
+		01119. at the front of Patches' arena
 
--- 01120. missing (chest)
+		-- 01120. missing (chest)
 
-Limgrave - Murkwater Catacombs
-01121. at the entrance from Limgrave
-01122. before Grave Warden Duelist's arena
-Limgrave - Murkwater Catacombs - Grave Warden Duelist
-01123. at the front of Grave Warden Duelist's arena
+		Limgrave - Murkwater Catacombs
+		01121. at the entrance from Limgrave
+		01122. before Grave Warden Duelist's arena
+		Limgrave - Murkwater Catacombs - Grave Warden Duelist
+		01123. at the front of Grave Warden Duelist's arena
 
-Limgrave - Highroad Cave
-01124. at the entrance from Limgrave
-01125. before Guardian Golem's arena
-Limgrave - Highroad Cave - Guardian Golem
-01126. at the front of Guardian Golem's arena
+		Limgrave - Highroad Cave
+		01124. at the entrance from Limgrave
+		01125. before Guardian Golem's arena
+		Limgrave - Highroad Cave - Guardian Golem
+		01126. at the front of Guardian Golem's arena
 
-Limgrave - Waypoint Ruins - Mad Pumpkin Head
-01127. at the front of Mad Pumpkin Head's arena
-01128. at the back of Mad Pumpkin Head's arena
-Limgrave - Waypoint Ruins - Sellen
-01129. after Mad Pumpkin Head's arena in Waypoint Ruins
+		Limgrave - Waypoint Ruins - Mad Pumpkin Head
+		01127. at the front of Mad Pumpkin Head's arena
+		01128. at the back of Mad Pumpkin Head's arena
+		Limgrave - Waypoint Ruins - Sellen
+		01129. after Mad Pumpkin Head's arena in Waypoint Ruins
 
-09101. entering a new evergaol-style object in Groveside Cave
-09102. entering a new evergaol-style object in Stormfoot Catacombs
-09103. entering a new evergaol-style object in Murkwater Cave
-09104. entering a new evergaol-style object in Murkwater Catacombs
-09105. entering a new evergaol-style object in Highroad Cave
+		09101. entering a new evergaol-style object in Groveside Cave
+		09102. entering a new evergaol-style object in Stormfoot Catacombs
+		09103. entering a new evergaol-style object in Murkwater Cave
+		09104. entering a new evergaol-style object in Murkwater Catacombs
+		09105. entering a new evergaol-style object in Highroad Cave
 
 -------------------------STORMHILL----------------------------
 
--- 01201-01205. missing (overworld)
+		-- 01201-01205. missing (overworld)
 
-Margit, the Fell Omen
-01206. at the front of Margit's arena
-01207. at the back of Margit's arena
+		Margit, the Fell Omen
+		01206. at the front of Margit's arena
+		01207. at the back of Margit's arena
 
-Stormhill - Deathtouched Catacombs
-01208. at the entrance from Stormhill
-01209. before Black Knife Assassin's arena
- Stormhill - Deathtouched Catacombs - Black Knife Assassin
-01210. at the front of Black Knife Assassin's arena
+		Stormhill - Deathtouched Catacombs
+		01208. at the entrance from Stormhill
+		01209. before Black Knife Assassin's arena
+		Stormhill - Deathtouched Catacombs - Black Knife Assassin
+		01210. at the front of Black Knife Assassin's arena
 
-Stormveil Castle before Gate
-01211. after Margit's arena
- Stormveil Castle after Gate
-01212. before Godrick's arena
-01213. at the side path to Limgrave Divine Tower
- Godrick the Grafted
-01214. at the front of Godrick's arena
- Divine Tower of Limgrave
-01215. at the entrance from Stormveil Castle
-01216. using the sending gate in the first half of the Divine Tower of Limgrave
- Stormveil Castle Throne Room
-01217. at the rear exit to Liurnia
+		Stormveil Castle before Gate
+		01211. after Margit's arena
+		Stormveil Castle after Gate
+		01212. before Godrick's arena
+		01213. at the side path to Limgrave Divine Tower
+		Godrick the Grafted
+		01214. at the front of Godrick's arena
+		Divine Tower of Limgrave
+		01215. at the entrance from Stormveil Castle
+		01216. using the sending gate in the first half of the Divine Tower of Limgrave
+		Stormveil Castle Throne Room
+		01217. at the rear exit to Liurnia
 
 
 -------------WEEPING PENINSULA------------------
 
--- 01301-01307. missing (overworld)
+		-- 01301-01307. missing (overworld)
 
-Weeping Peninsula - Tombsward Cave
-01308. at the entrance from Weeping Peninsula
-01309. before Miranda Blossom's arena
-Weeping Peninsula - Tombsward Cave - Miranda Blossom
-01310. at the front of Miranda Blossom's arena
+		Weeping Peninsula - Tombsward Cave
+		01308. at the entrance from Weeping Peninsula
+		01309. before Miranda Blossom's arena
+		Weeping Peninsula - Tombsward Cave - Miranda Blossom
+		01310. at the front of Miranda Blossom's arena
 
- Weeping Peninsula - Morne Tunnel
- 01311. at the entrance from Weeping Peninsula
- 01312. before Scaly Misbegotten's arena
- Weeping Peninsula - Morne Tunnel - Scaly Misbegotten
-01313. at the front of Scaly Misbegotten's arena
+		Weeping Peninsula - Morne Tunnel
+		01311. at the entrance from Weeping Peninsula
+		01312. before Scaly Misbegotten's arena
+		Weeping Peninsula - Morne Tunnel - Scaly Misbegotten
+		01313. at the front of Scaly Misbegotten's arena
 
- Weeping Peninsula - Tombsward Catacombs
- 01314. at the entrance from Weeping Peninsula
- 01315. before Cemetery Shade's arena
- Weeping Peninsula - Tombsward Catacombs - Cemetery Shade
-01316. at the front of Cemetery Shade's arena
+		Weeping Peninsula - Tombsward Catacombs
+		01314. at the entrance from Weeping Peninsula
+		01315. before Cemetery Shade's arena
+		Weeping Peninsula - Tombsward Catacombs - Cemetery Shade
+		01316. at the front of Cemetery Shade's arena
 
- Weeping Peninsula - Earthbore Cave
- 01317. at the entrance from Weeping Peninsula
- 01318. before Runebear's arena
- Weeping Peninsula - Earthbore Cave - Runebear
-01319. at the front of Runebear's arena
+		Weeping Peninsula - Earthbore Cave
+		01317. at the entrance from Weeping Peninsula
+		01318. before Runebear's arena
+		Weeping Peninsula - Earthbore Cave - Runebear
+		01319. at the front of Runebear's arena
 
- Weeping Peninsula - Impaler's Catacombs
- 01320. at the entrance from Weeping Peninsula
- 01321. before Erdtree Burial Watchdog's arena
-  Weeping Peninsula - Impaler's Catacombs - Erdtree Burial Watchdog
- 01322. at the front of Erdtree Burial Watchdog's arena
+		Weeping Peninsula - Impaler's Catacombs
+		01320. at the entrance from Weeping Peninsula
+		01321. before Erdtree Burial Watchdog's arena
+		Weeping Peninsula - Impaler's Catacombs - Erdtree Burial Watchdog
+		01322. at the front of Erdtree Burial Watchdog's arena
 
- Weeping Peninsula - Beside the Rampart Gaol
- 01323. before Leonine Misbegotten's arena
-Leonine Misbegotten
-01324. at the front of Leonine Misbegotten's arena
- 
-09106. at the entrance of Castle Morne from Weeping Peninsula
-09107. entering a new evergaol-style object in Tombsward Catacombs
-09108. entering a new evergaol-style object in Impaler's Catacombs
+		Weeping Peninsula - Beside the Rampart Gaol
+		01323. before Leonine Misbegotten's arena
+		Leonine Misbegotten
+		01324. at the front of Leonine Misbegotten's arena
+
+		09106. at the entrance of Castle Morne from Weeping Peninsula
+		09107. entering a new evergaol-style object in Tombsward Catacombs
+		09108. entering a new evergaol-style object in Impaler's Catacombs
 
 
 -----------------LIURNIA------------------------- 020 + 021
