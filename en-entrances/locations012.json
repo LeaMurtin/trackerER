@@ -9,7 +9,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01206",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -22,7 +22,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "02001",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -35,7 +35,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "???",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -48,7 +48,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01208",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -61,7 +61,7 @@
 			"oneWay": true,
 			"oneWayCategory": "Evergaol",
 			"reverseId": "",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -178,7 +178,7 @@
 			"oneWay": true,
 			"oneWayCategory": "Sending Gates",
 			"reverseId": "",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [],
 			"shuffled": true
 		},

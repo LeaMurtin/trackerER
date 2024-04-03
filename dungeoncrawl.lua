@@ -176,7 +176,7 @@ Roundtable Hold
 
 -----------------LIURNIA------------------------- 020 + 021
 
--- 02001-02021. missing (overworld)
+		-- 02001-02021. missing (overworld)
 
 Carian Study Hall
 02101. at the entrance from Liurnia

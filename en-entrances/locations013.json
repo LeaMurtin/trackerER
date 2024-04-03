@@ -9,7 +9,7 @@
 			"oneWay": true,
 			"oneWayCategory": "Chests",
 			"reverseId": "",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -22,7 +22,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01308",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -35,7 +35,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01311",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -48,7 +48,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01314",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -61,7 +61,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01317",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -74,7 +74,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01320",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -87,7 +87,7 @@
 			"oneWay": true,
 			"oneWayCategory": "Evergaol",
 			"reverseId": "",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [""],
 			"shuffled": true
 		},

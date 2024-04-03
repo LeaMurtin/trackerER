@@ -256,7 +256,7 @@
 			"oneWay": true,
 			"oneWayCategory": "Chests",
 			"reverseId": "",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [],
 			"shuffled": true
 		},

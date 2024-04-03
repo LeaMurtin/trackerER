@@ -48,7 +48,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "00005",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": ["00003"],
 			"shuffled": true
 		},
@@ -61,7 +61,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "00004",
-			"type": "wordshuffle",
+			"type": "worldshuffle",
 			"accessTo": [],
 			"shuffled": true
 		}
