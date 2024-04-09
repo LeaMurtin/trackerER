@@ -1,6 +1,5 @@
-import { AppShell, Burger, Group } from '@mantine/core';
+import { AppShell, Burger, Flex } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
-import { useState } from "react"
 
 export function MainPage() {
 	const [settingsOpened, { toggle: toggleLeftSection }] = useDisclosure();
@@ -30,7 +29,7 @@ export function MainPage() {
       padding="md"
     >
       <AppShell.Header>
-        <Group h="100%" px="md">
+        <Flex h="100%" px="md" justify="space-between" align="center">
           <Burger
             opened={settingsOpened}
             onClick={toggleLeftSection}
@@ -42,7 +41,7 @@ export function MainPage() {
             onClick={toggleRightSection}
             size="sm"
           />
-        </Group>
+        </Flex>
       </AppShell.Header>
 
       <AppShell.Navbar p="md">Settings</AppShell.Navbar>
