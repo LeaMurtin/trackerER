@@ -1,6 +1,5 @@
 import { AppShell, Burger, Group } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
-import { useState } from "react"
 
 export function MainPage() {
 	const [settingsOpened, { toggle: toggleLeftSection }] = useDisclosure();
