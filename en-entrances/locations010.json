@@ -1,7 +1,7 @@
 {
 	"entrances": {
 		"01001": {
-			"fullName": "at the back entrance to Stranded Graveyard from the Seaside Ruins beach",
+			"description": "at the back entrance to Stranded Graveyard from the Seaside Ruins beach",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Stranded Graveyard",
@@ -16,7 +16,7 @@
 			"shuffled": true
 		},
 		"01002": {
-			"fullName": "at the entrance from Stranded Graveyard",
+			"description": "at the entrance from Stranded Graveyard",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Stranded Graveyard",
@@ -31,7 +31,7 @@
 			"shuffled": true
 		},
 		"01003": {
-			"fullName": "at the start of Nokron from Limgrave",
+			"description": "at the start of Nokron from Limgrave",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Nokron",
@@ -44,7 +44,7 @@
 			"shuffled": true
 		},
 		"01004": {
-			"fullName": "at the Siofra River Well",
+			"description": "at the Siofra River Well",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Siofra River",
@@ -59,7 +59,7 @@
 			"shuffled": true
 		},
 		"01005": {
-			"fullName": "at the entrance to Groveside Cave",
+			"description": "at the entrance to Groveside Cave",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Groveside Cave",
@@ -74,7 +74,7 @@
 			"shuffled": true
 		},
 		"01006": {
-			"fullName": "at the entrance to Coastal Cave",
+			"description": "at the entrance to Coastal Cave",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Coastal Cave",
@@ -89,7 +89,7 @@
 			"shuffled": true
 		},
 		"01007": {
-			"fullName": "at the entrance to Limgrave Tunnels",
+			"description": "at the entrance to Limgrave Tunnels",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Limgrave Tunnels",
@@ -104,7 +104,7 @@
 			"shuffled": true
 		},
 		"01008": {
-			"fullName": "at the Gael Tunnel rear exit to Limgrave after the one-way door",
+			"description": "at the Gael Tunnel rear exit to Limgrave after the one-way door",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Gael Tunnel",
@@ -119,7 +119,7 @@
 			"shuffled": true
 		},
 		"01009": {
-			"fullName": "at the entrance to Stormfoot Catacombs",
+			"description": "at the entrance to Stormfoot Catacombs",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Stormfoot Catacombs",
@@ -134,7 +134,7 @@
 			"shuffled": true
 		},
 		"01010": {
-			"fullName": "at the entrance to Murkwater Cave",
+			"description": "at the entrance to Murkwater Cave",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Murkwater Cave",
@@ -149,7 +149,7 @@
 			"shuffled": true
 		},
 		"01011": {
-			"fullName": "at the entrance to Murkwater Catacombs",
+			"description": "at the entrance to Murkwater Catacombs",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Murkwater Catacombs",
@@ -164,7 +164,7 @@
 			"shuffled": true
 		},
 		"01012": {
-			"fullName": "at the entrance to Highroad Cave",
+			"description": "at the entrance to Highroad Cave",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Highroad Cave",
@@ -179,7 +179,7 @@
 			"shuffled": true
 		},
 		"01013": {
-			"fullName": "before Mad Pumpkin Head's arena in Waypoint Ruins",
+			"description": "before Mad Pumpkin Head's arena in Waypoint Ruins",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Waypoint Ruins",
@@ -194,7 +194,7 @@
 			"shuffled": true
 		},
 		"01014": {
-			"fullName": "opening the transporter chest in Dragon-Burnt Ruins in Agheel Lake",
+			"description": "opening the transporter chest in Dragon-Burnt Ruins in Agheel Lake",
 			"panel": "Warps",
 			"areaFrom": "Agheel Lake",
 			"areaTo": "Sellia Crystal Tunnel",
@@ -207,7 +207,7 @@
 			"shuffled": true
 		},
 		"01015": {
-			"fullName": "using the sending gate north of Third Church of Marika",
+			"description": "using the sending gate north of Third Church of Marika",
 			"panel": "Warps",
 			"areaFrom": "Limgrave",
 			"areaTo": "Greyoll Dragonbarrow",
@@ -220,7 +220,7 @@
 			"shuffled": true
 		},
 		"01016": {
-			"fullName": "entering Forlorn Hound Evergaol",
+			"description": "entering Forlorn Hound Evergaol",
 			"panel": "Limgrave",
 			"areaFrom": "Limgrave",
 			"areaTo": "Forlorn Hound Evergaol",

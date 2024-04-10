@@ -1,7 +1,7 @@
 {
 	"entrances": {
 		"02001": {
-			"fullName": "along the side path from Stormhill",
+			"description": "along the side path from Stormhill",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Stormhill",
@@ -14,7 +14,7 @@
 			"shuffled": true
 		},
 		"02002": {
-			"fullName": "at the Stormveil Castle rear exit",
+			"description": "at the Stormveil Castle rear exit",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Stormveil Castle",
@@ -27,7 +27,7 @@
 			"shuffled": true
 		},
 		"02003": {
-			"fullName": "using South Raya Lucaria Gate",
+			"description": "using South Raya Lucaria Gate",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Raya Lucaria",
@@ -40,7 +40,7 @@
 			"shuffled": true
 		},
 		"02004": {
-			"fullName": "at the entrance to Carian Study Hall",
+			"description": "at the entrance to Carian Study Hall",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Carian Study Hall",
@@ -53,7 +53,7 @@
 			"shuffled": true
 		},
 		"02005": {
-			"fullName": "using the 2nd Belfry labeled Precipice of Anticipation",
+			"description": "using the 2nd Belfry labeled Precipice of Anticipation",
 			"panel": "Warps",
 			"areaFrom": "Liurnia",
 			"areaTo": "Chapel of Anticipation",
@@ -66,7 +66,7 @@
 			"shuffled": true
 		},
 		"02006": {
-			"fullName": "using the 3rd Belfry labeled Night Sky Unceasing",
+			"description": "using the 3rd Belfry labeled Night Sky Unceasing",
 			"panel": "Warps",
 			"areaFrom": "Liurnia",
 			"areaTo": "Nokron",
@@ -79,7 +79,7 @@
 			"shuffled": true
 		},
 		"02007": {
-			"fullName": "using the 1st Belfry labeled Crumbling Lands",
+			"description": "using the 1st Belfry labeled Crumbling Lands",
 			"panel": "Warps",
 			"areaFrom": "Liurnia",
 			"areaTo": "Farum Azula",
@@ -92,7 +92,7 @@
 			"shuffled": true
 		},
 		"02008": {
-			"fullName": "at the Ruin-Strewn Precipice entrance",
+			"description": "at the Ruin-Strewn Precipice entrance",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Ruin-Strewn Precipice",
@@ -105,7 +105,7 @@
 			"shuffled": true
 		},
 		"02009": {
-			"fullName": "at the Ainsel River Well",
+			"description": "at the Ainsel River Well",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Ainsel River",
@@ -118,7 +118,7 @@
 			"shuffled": true
 		},
 		"02010": {
-			"fullName": "at the entrance to Raya Lucaria Crystal Tunnel",
+			"description": "at the entrance to Raya Lucaria Crystal Tunnel",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Raya Lucaria Crystal Tunnel",
@@ -131,7 +131,7 @@
 			"shuffled": true
 		},
 		"02011": {
-			"fullName": "at the entrance to Road's End Catacombs",
+			"description": "at the entrance to Road's End Catacombs",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Road's End Catacombs",
@@ -144,7 +144,7 @@
 			"shuffled": true
 		},
 		"02012": {
-			"fullName": "at the entrance to Academy Crystal Cave, with Stonesword Key",
+			"description": "at the entrance to Academy Crystal Cave, with Stonesword Key",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Academy Crystal Cave",
@@ -157,7 +157,7 @@
 			"shuffled": true
 		},
 		"02013": {
-			"fullName": "before Royal Revenant's arena in Kingsrealm Ruins",
+			"description": "before Royal Revenant's arena in Kingsrealm Ruins",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Kingsrealm Ruins",
@@ -170,7 +170,7 @@
 			"shuffled": true
 		},
 		"02014": {
-			"fullName": "at the entrance to Lakeside Crystal Cave",
+			"description": "at the entrance to Lakeside Crystal Cave",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Lakeside Crystal Cave",
@@ -183,7 +183,7 @@
 			"shuffled": true
 		},
 		"02015": {
-			"fullName": "at the entrance to Stillwater Cave",
+			"description": "at the entrance to Stillwater Cave",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Stillwater Cave",
@@ -196,7 +196,7 @@
 			"shuffled": true
 		},
 		"02016": {
-			"fullName": "at the entrance to Cliffbottom Catacombs",
+			"description": "at the entrance to Cliffbottom Catacombs",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Cliffbottom Catacombs",
@@ -209,7 +209,7 @@
 			"shuffled": true
 		},
 		"02017": {
-			"fullName": "at the entrance to Black Knife Catacombs",
+			"description": "at the entrance to Black Knife Catacombs",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Black Knife Catacombs",
@@ -222,7 +222,7 @@
 			"shuffled": true
 		},
 		"02018": {
-			"fullName": "using the sending gate from the gazebo straight east of Raya Lucaria South Entrance",
+			"description": "using the sending gate from the gazebo straight east of Raya Lucaria South Entrance",
 			"panel": "Warps",
 			"areaFrom": "Liurnia",
 			"areaTo": "West Liurnia",
@@ -235,7 +235,7 @@
 			"shuffled": true
 		},
 		"02019": {
-			"fullName": "using the sending gate in Laskyar Ruins or Purified Ruins",
+			"description": "using the sending gate in Laskyar Ruins or Purified Ruins",
 			"panel": "Warps",
 			"areaFrom": "Liurnia",
 			"areaTo": "Raya Lucaria Main Entrance",
@@ -248,7 +248,7 @@
 			"shuffled": true
 		},
 		"02020": {
-			"fullName": "entering Cuckoo's Evergaol",
+			"description": "entering Cuckoo's Evergaol",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Cuckoo's Evergaol",
@@ -261,7 +261,7 @@
 			"shuffled": true
 		},
 		"02021": {
-			"fullName": "entering Malefactor's Evergaol",
+			"description": "entering Malefactor's Evergaol",
 			"panel": "Liurnia",
 			"areaFrom": "Liurnia",
 			"areaTo": "Malefactor's Evergaol",

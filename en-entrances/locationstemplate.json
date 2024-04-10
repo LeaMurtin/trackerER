@@ -1,7 +1,7 @@
 {
 	"entrances": {
 		"entrance id": {
-			"fullName": "identifier",
+			"description": "identifier",
 			"panel": "general area",
 			"areaFrom": "area name",
 			"areaTo": "vanilla destination",

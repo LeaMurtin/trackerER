@@ -1,7 +1,7 @@
 {
 	"entrances": {
 		"00101": {
-			"fullName": "at the exit to Limgrave",
+			"description": "at the exit to Limgrave",
 			"panel": "Stranded Graveyard",
 			"areaFrom": "Stranded Graveyard",
 			"areaTo": "Limgrave",
@@ -14,7 +14,7 @@
 			"shuffled": true
 		},
 		"00102": {
-			"fullName": "at the door from Cave of Knowledge",
+			"description": "at the door from Cave of Knowledge",
 			"panel": "Stranded Graveyard",
 			"areaFrom": "Stranded Graveyard",
 			"areaTo": "Cave of Knowledge",
@@ -27,7 +27,7 @@
 			"shuffled": true
 		},
 		"00103": {
-			"fullName": "before Soldier of Godrick's arena",
+			"description": "before Soldier of Godrick's arena",
 			"panel": "Cave of Knowledge",
 			"areaFrom": "Cave of Knowledge",
 			"areaTo": "Soldier of Godrick's arena",
@@ -40,7 +40,7 @@
 			"shuffled": true
 		},
 		"00104": {
-			"fullName": "at the door to Stranded Graveyard",
+			"description": "at the door to Stranded Graveyard",
 			"panel": "Cave of Knowledge",
 			"areaFrom": "Cave of Knowledge",
 			"areaTo": "Stranded Graveyard",
@@ -53,7 +53,7 @@
 			"shuffled": true
 		},
 		"00105": {
-			"fullName": "at the front of Soldier of Godrick's arena",
+			"description": "at the front of Soldier of Godrick's arena",
 			"panel": "Cave of Knowledge",
 			"areaFrom": "Soldier of Godrick's arena",
 			"areaTo": "Cave of Knowledge",
@@ -66,7 +66,7 @@
 			"shuffled": true
 		},
 		"00106": {
-			"fullName": "at the back of Soldier of Godrick's arena",
+			"description": "at the back of Soldier of Godrick's arena",
 			"panel": "Cave of Knowledge",
 			"areaFrom": "Soldier of Godrick's arena",
 			"areaTo": "Cave of Knowledge after boss",
@@ -79,7 +79,7 @@
 			"shuffled": true
 		},
 		"00107": {
-			"fullName": "after Soldier of Godrick's arena",
+			"description": "after Soldier of Godrick's arena",
 			"panel": "Cave of Knowledge",
 			"areaFrom": "Cave of Knowledge after boss",
 			"areaTo": "Soldier of Godrick's arena",
@@ -92,7 +92,7 @@
 			"shuffled": true
 		},
 		"00108": {
-			"fullName": "at the back entrance from the Seaside Ruins beach",
+			"description": "at the back entrance from the Seaside Ruins beach",
 			"panel": "Cave of Knowledge",
 			"areaFrom": "Cave of Knowledge (upper ledge)",
 			"areaTo": "Limgrave",

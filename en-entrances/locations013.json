@@ -1,7 +1,7 @@
 {
 	"entrances": {
 		"01301": {
-			"fullName": "opening the transporter chest atop the Tower of Return",
+			"description": "opening the transporter chest atop the Tower of Return",
 			"panel": "Warps",
 			"areaFrom": "Weeping Peninsula",
 			"areaTo": "Leyndell",
@@ -14,7 +14,7 @@
 			"shuffled": true
 		},
 		"01302": {
-			"fullName": "at the entrance to Tombsward Cave",
+			"description": "at the entrance to Tombsward Cave",
 			"panel": "Weeping Peninsula",
 			"areaFrom": "Weeping Peninsula",
 			"areaTo": "Tombsward Cave",
@@ -27,7 +27,7 @@
 			"shuffled": true
 		},
 		"01303": {
-			"fullName": "at the entrance to Morne Tunnel",
+			"description": "at the entrance to Morne Tunnel",
 			"panel": "Weeping Peninsula",
 			"areaFrom": "Weeping Peninsula",
 			"areaTo": "Morne Tunnel",
@@ -40,7 +40,7 @@
 			"shuffled": true
 		},
 		"01304": {
-			"fullName": "at the entrance to Tombsward Catacombs",
+			"description": "at the entrance to Tombsward Catacombs",
 			"panel": "Weeping Peninsula",
 			"areaFrom": "Weeping Peninsula",
 			"areaTo": "Tombsward Catacombs",
@@ -53,7 +53,7 @@
 			"shuffled": true
 		},
 		"01305": {
-			"fullName": "at the entrance to Earthbore Cave",
+			"description": "at the entrance to Earthbore Cave",
 			"panel": "Weeping Peninsula",
 			"areaFrom": "Weeping Peninsula",
 			"areaTo": "Earthbore Cave",
@@ -66,7 +66,7 @@
 			"shuffled": true
 		},
 		"01306": {
-			"fullName": "at the entrance to Impaler's Catacombs",
+			"description": "at the entrance to Impaler's Catacombs",
 			"panel": "Weeping Peninsula",
 			"areaFrom": "Weeping Peninsula",
 			"areaTo": "Impaler's Catacombs",
@@ -79,7 +79,7 @@
 			"shuffled": true
 		},
 		"01307": {
-			"fullName": "entering Weeping Evergaol",
+			"description": "entering Weeping Evergaol",
 			"panel": "Weeping Peninsula",
 			"areaFrom": "Weeping Peninsula",
 			"areaTo": "Weeping Evergaol",
@@ -92,7 +92,7 @@
 			"shuffled": true
 		},
 		"01308": {
-			"fullName": "at the entrance from Weeping Peninsula",
+			"description": "at the entrance from Weeping Peninsula",
 			"panel": "Tombsward Cave",
 			"areaFrom": "Tombsward Cave",
 			"areaTo": "Weeping Peninsula",
@@ -105,7 +105,7 @@
 			"shuffled": true
 		},
 		"01309": {
-			"fullName": "before Miranda Blossom's arena",
+			"description": "before Miranda Blossom's arena",
 			"panel": "Tombsward Cave",
 			"areaFrom": "Tombsward Cave",
 			"areaTo": "Miranda Blossom's arena",
@@ -118,7 +118,7 @@
 			"shuffled": true
 		},
 		"01310": {
-			"fullName": "at the front of Miranda Blossom's arena",
+			"description": "at the front of Miranda Blossom's arena",
 			"panel": "Tombsward Cave",
 			"areaFrom": "Miranda Blossom's arena",
 			"areaTo": "Tombsward Cave",
@@ -131,7 +131,7 @@
 			"shuffled": true
 		},
 		"01311": {
-			"fullName": "at the entrance from Weeping Peninsula",
+			"description": "at the entrance from Weeping Peninsula",
 			"panel": "Morne Tunnel",
 			"areaFrom": "Morne Tunnel",
 			"areaTo": "Weeping Peninsula",
@@ -144,7 +144,7 @@
 			"shuffled": true
 		},
 		"01312": {
-			"fullName": "before Scaly Misbegotten's arena",
+			"description": "before Scaly Misbegotten's arena",
 			"panel": "Morne Tunnel",
 			"areaFrom": "Morne Tunnel",
 			"areaTo": "Scaly Misbegotten's arena",
@@ -157,7 +157,7 @@
 			"shuffled": true
 		},
 		"01313": {
-			"fullName": "at the front of Scaly Misbegotten's arena",
+			"description": "at the front of Scaly Misbegotten's arena",
 			"panel": "Morne Tunnel",
 			"areaFrom": "Scaly Misbegotten's arena",
 			"areaTo": "Morne Tunnel",
@@ -170,7 +170,7 @@
 			"shuffled": true
 		},
 		"01314": {
-			"fullName": "at the entrance from Weeping Peninsula",
+			"description": "at the entrance from Weeping Peninsula",
 			"panel": "Tombsward Catacombs",
 			"areaFrom": "Tombsward Catacombs",
 			"areaTo": "Weeping Peninsula",
@@ -183,7 +183,7 @@
 			"shuffled": true
 		},
 		"01315": {
-			"fullName": "before Cemetery Shade's arena",
+			"description": "before Cemetery Shade's arena",
 			"panel": "Tombsward Catacombs",
 			"areaFrom": "Tombsward Catacombs",
 			"areaTo": "Cemetery Shade's arena",
@@ -196,7 +196,7 @@
 			"shuffled": true
 		},
 		"01316": {
-			"fullName": "at the front of Cemetery Shade's arena",
+			"description": "at the front of Cemetery Shade's arena",
 			"panel": "Tombsward Catacombs",
 			"areaFrom": "Cemetery Shade's arena",
 			"areaTo": "Tombsward Catacombs",
@@ -209,7 +209,7 @@
 			"shuffled": true
 		},
 		"01317": {
-			"fullName": "at the entrance from Weeping Peninsula",
+			"description": "at the entrance from Weeping Peninsula",
 			"panel": "Earthbore Cave",
 			"areaFrom": "Earthbore Cave",
 			"areaTo": "Weeping Peninsula",
@@ -222,7 +222,7 @@
 			"shuffled": true
 		},
 		"01318": {
-			"fullName": "before Runebear's arena",
+			"description": "before Runebear's arena",
 			"panel": "Earthbore Cave",
 			"areaFrom": "Earthbore Cave",
 			"areaTo": "Runebear's arena",
@@ -235,7 +235,7 @@
 			"shuffled": true
 		},
 		"01319": {
-			"fullName": "at the front of Runebear's arena",
+			"description": "at the front of Runebear's arena",
 			"panel": "Earthbore Cave",
 			"areaFrom": "Runebear's arena",
 			"areaTo": "Earthbore Cave",
@@ -248,7 +248,7 @@
 			"shuffled": true
 		},
 		"01320": {
-			"fullName": "at the entrance from Weeping Peninsula",
+			"description": "at the entrance from Weeping Peninsula",
 			"panel": "Impaler's Catacombs",
 			"areaFrom": "Impaler's Catacombs",
 			"areaTo": "Weeping Peninsula",
@@ -261,7 +261,7 @@
 			"shuffled": true
 		},
 		"01321": {
-			"fullName": "before Erdtree Burial Watchdog's arena",
+			"description": "before Erdtree Burial Watchdog's arena",
 			"panel": "Impaler's Catacombs",
 			"areaFrom": "Impaler's Catacombs",
 			"areaTo": "Erdtree Burial Watchdog's arena",
@@ -274,7 +274,7 @@
 			"shuffled": true
 		},
 		"01322": {
-			"fullName": "at the front of Erdtree Burial Watchdog's arena",
+			"description": "at the front of Erdtree Burial Watchdog's arena",
 			"panel": "Impaler's Catacombs",
 			"areaFrom": "Erdtree Burial Watchdog's arena",
 			"areaTo": "Impaler's Catacombs",
@@ -287,7 +287,7 @@
 			"shuffled": true
 		},
 		"09106": {
-			"fullName": "at the entrance from Weeping Peninsula",
+			"description": "at the entrance from Weeping Peninsula",
 			"panel": "Castle Morne",
 			"areaFrom": "Castle Morne",
 			"areaTo": "Weeping Peninsula",
@@ -300,7 +300,7 @@
 			"shuffled": true
 		},
 		"01323": {
-			"fullName": "before Leonine Misbegotten's arena",
+			"description": "before Leonine Misbegotten's arena",
 			"panel": "Castle Morne",
 			"areaFrom": "Castle Morne",
 			"areaTo": "Leonine Misbegotten's arena",
@@ -313,7 +313,7 @@
 			"shuffled": true
 		},
 		"01324": {
-			"fullName": "at the front of Leonine Misbegotten's arena",
+			"description": "at the front of Leonine Misbegotten's arena",
 			"panel": "Castle Morne",
 			"areaFrom": "Leonine Misbegotten's arena",
 			"areaTo": "Castle Morne",
@@ -326,7 +326,7 @@
 			"shuffled": true
 		},
 		"09107": {
-			"fullName": "entering a new evergaol-style object in Tombsward Catacombs",
+			"description": "entering a new evergaol-style object in Tombsward Catacombs",
 			"panel": "Tombsward Catacombs",
 			"areaFrom": "Tombsward Catacombs",
 			"areaTo": "Tombsward Catacombs Evergaol",
@@ -339,7 +339,7 @@
 			"shuffled": true
 		},
 		"09108": {
-			"fullName": "entering a new evergaol-style object in Impaler's Catacombs",
+			"description": "entering a new evergaol-style object in Impaler's Catacombs",
 			"panel": "Impaler's Catacombs",
 			"areaFrom": "Impaler's Catacombs",
 			"areaTo": "Impaler's Catacombs Evergaol",
