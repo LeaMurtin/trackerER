@@ -9,7 +9,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "00003",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -22,7 +22,7 @@
 			"oneWay": true,
 			"oneWayCategory": "Items",
 			"reverseId": "",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -35,7 +35,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "00001",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": ["00004"],
 			"shuffled": true
 		},

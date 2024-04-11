@@ -9,7 +9,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01102",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_grave"],
 			"accessTo": ["???"],
 			"shuffled": true
 		},
@@ -22,7 +23,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01101",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_grave"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -35,7 +37,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01005",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": ["01104"],
 			"shuffled": true
 		},
@@ -48,7 +51,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01105",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": ["01103"],
 			"shuffled": true
 		},
@@ -61,7 +65,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01104",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -74,7 +79,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01006",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": ["01107"],
 			"shuffled": true
 		},
@@ -87,7 +93,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01108",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": ["01103"],
 			"shuffled": true
 		},
@@ -100,7 +107,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01107",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": ["01109"],
 			"shuffled": true
 		},
@@ -113,7 +121,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01110",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": ["01108"],
 			"shuffled": true
 		},
@@ -126,7 +135,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01109",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -139,7 +149,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01007",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_tunnel"],
 			"accessTo": ["01112"],
 			"shuffled": true
 		},
@@ -152,7 +163,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01113",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_tunnel"],
 			"accessTo": ["01111"],
 			"shuffled": true
 		},
@@ -165,7 +177,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01112",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_tunnel"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -178,7 +191,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01009",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_catacomb"],
 			"accessTo": ["01115"],
 			"shuffled": true
 		},
@@ -191,7 +205,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01116",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_catacomb"],
 			"accessTo": ["01114"],
 			"shuffled": true
 		},
@@ -204,7 +219,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01115",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_catacomb"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -217,7 +233,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01010",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": ["01118"],
 			"shuffled": true
 		},
@@ -230,7 +247,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01119",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": ["01117"],
 			"shuffled": true
 		},
@@ -243,7 +261,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01118",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -257,6 +276,7 @@
 			"oneWayCategory": "Chests",
 			"reverseId": "",
 			"type": "worldshuffle",
+			"setting": "req_minorwarp",
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -269,7 +289,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01011",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_catacomb"],
 			"accessTo": ["01122"],
 			"shuffled": true
 		},
@@ -282,7 +303,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01123",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_catacomb"],
 			"accessTo": ["01121"],
 			"shuffled": true
 		},
@@ -295,7 +317,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01122",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_catacomb"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -308,7 +331,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01012",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": ["01125"],
 			"shuffled": true
 		},
@@ -321,7 +345,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01126",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": ["01124"],
 			"shuffled": true
 		},
@@ -334,7 +359,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01125",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -347,7 +373,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01013",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon"],
 			"accessTo": ["01128"],
 			"shuffled": true
 		},
@@ -360,7 +387,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01129",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon"],
 			"accessTo": ["01127"],
 			"shuffled": true
 		},
@@ -373,7 +401,8 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01128",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
+			"setting": ["req_dungeon"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -387,6 +416,7 @@
 			"oneWayCategory": "Evergaol",
 			"reverseId": "",
 			"type": "dungeoncrawl",
+			"setting": ["req_dungeon", "req_cave"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -400,6 +430,7 @@
 			"oneWayCategory": "Evergaol",
 			"reverseId": "",
 			"type": "dungeoncrawl",
+			"setting": ["req_catacombs"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -413,6 +444,7 @@
 			"oneWayCategory": "Evergaol",
 			"reverseId": "",
 			"type": "dungeoncrawl",
+			"setting": ["req_cave"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -426,6 +458,7 @@
 			"oneWayCategory": "Evergaol",
 			"reverseId": "",
 			"type": "dungeoncrawl",
+			"setting": ["req_catacombs"],
 			"accessTo": [],
 			"shuffled": true
 		},
@@ -439,6 +472,7 @@
 			"oneWayCategory": "Evergaol",
 			"reverseId": "",
 			"type": "dungeoncrawl",
+			"setting": ["req_cave"],
 			"accessTo": [],
 			"shuffled": true
 		}

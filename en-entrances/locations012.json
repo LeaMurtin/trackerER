@@ -74,7 +74,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01201",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -87,7 +87,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01211",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -100,7 +100,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01207",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -113,7 +113,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01214",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -126,7 +126,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01212",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -139,7 +139,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "02002",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -152,7 +152,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01215",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -165,7 +165,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01213",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [""],
 			"shuffled": true
 		},
@@ -191,7 +191,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01204",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": ["01209"],
 			"shuffled": true
 		},
@@ -204,7 +204,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01210",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": ["01208"],
 			"shuffled": true
 		},
@@ -217,7 +217,7 @@
 			"oneWay": false,
 			"oneWayCategory": "",
 			"reverseId": "01209",
-			"type": "shared",
+			"type": ["worldshuffle", "dungeoncrawl"],
 			"accessTo": [],
 			"shuffled": true
 		}
