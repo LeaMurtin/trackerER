@@ -1,7 +1,7 @@
 {
 	"entrances": {
 		"01101": {
-			"fullName": "before Ulcerated Tree Spirit's arena",
+			"description": "before Ulcerated Tree Spirit's arena",
 			"panel": "Fringefolk Hero's Grave",
 			"areaFrom": "Fringefolk Hero's Grave",
 			"areaTo": "Ulcerated Tree Spirit's arena",
@@ -15,7 +15,7 @@
 			"shuffled": true
 		},
 		"01102": {
-			"fullName": "at the front of Ulcerated Tree Spirit's arena",
+			"description": "at the front of Ulcerated Tree Spirit's arena",
 			"panel": "Fringefolk Hero's Grave",
 			"areaFrom": "Ulcerated Tree Spirit's arena",
 			"areaTo": "Fringefolk Hero's Grave",
@@ -29,7 +29,7 @@
 			"shuffled": true
 		},
 		"01103": {
-			"fullName": "at the entrance from Limgrave",
+			"description": "at the entrance from Limgrave",
 			"panel": "Groveside Cave",
 			"areaFrom": "Groveside Cave",
 			"areaTo": "Limgrave",
@@ -43,7 +43,7 @@
 			"shuffled": true
 		},
 		"01104": {
-			"fullName": "before Beastman of Farum Azula's arena",
+			"description": "before Beastman of Farum Azula's arena",
 			"panel": "Groveside Cave",
 			"areaFrom": "Groveside Cave",
 			"areaTo": "Beastman of Farum Azula's arena",
@@ -57,7 +57,7 @@
 			"shuffled": true
 		},
 		"01105": {
-			"fullName": "at the front of Beastman of Farum Azula's arena",
+			"description": "at the front of Beastman of Farum Azula's arena",
 			"panel": "Groveside Cave",
 			"areaFrom": "Ulcerated Tree Spirit's arena",
 			"areaTo": "Groveside Cave",
@@ -71,7 +71,7 @@
 			"shuffled": true
 		},
 		"01106": {
-			"fullName": "at the entrance from Limgrave",
+			"description": "at the entrance from Limgrave",
 			"panel": "Coastal Cave",
 			"areaFrom": "Coastal Cave",
 			"areaTo": "Limgrave",
@@ -85,7 +85,7 @@
 			"shuffled": true
 		},
 		"01107": {
-			"fullName": "before Demi-Human Chiefs' arena",
+			"description": "before Demi-Human Chiefs' arena",
 			"panel": "Coastal Cave",
 			"areaFrom": "Coastal Cave",
 			"areaTo": "Demi-Human Chiefs' arena",
@@ -99,7 +99,7 @@
 			"shuffled": true
 		},
 		"01108": {
-			"fullName": "at the front of Demi-Human Chiefs' arena",
+			"description": "at the front of Demi-Human Chiefs' arena",
 			"panel": "Coastal Cave",
 			"areaFrom": "Demi-Human Chiefs' arena",
 			"areaTo": "Coastal Cave",
@@ -113,7 +113,7 @@
 			"shuffled": true
 		},
 		"01109": {
-			"fullName": "at the back of Demi-Human Chiefs' arena",
+			"description": "at the back of Demi-Human Chiefs' arena",
 			"panel": "Coastal Cave",
 			"areaFrom": "Demi-Human Chiefs' arena",
 			"areaTo": "Dragon Church",
@@ -127,7 +127,7 @@
 			"shuffled": true
 		},
 		"01110": {
-			"fullName": "after Coastal Cave boss to Dragon Church",
+			"description": "after Coastal Cave boss to Dragon Church",
 			"panel": "Coastal Cave",
 			"areaFrom": "Dragon Church",
 			"areaTo": "Demi-Human Chiefs' arena",
@@ -141,7 +141,7 @@
 			"shuffled": true
 		},
 		"01111": {
-			"fullName": "at the entrance from Limgrave",
+			"description": "at the entrance from Limgrave",
 			"panel": "Limgrave Tunnels",
 			"areaFrom": "Limgrave Tunnels",
 			"areaTo": "Limgrave",
@@ -155,7 +155,7 @@
 			"shuffled": true
 		},
 		"01112": {
-			"fullName": "before Stonedigger Troll's arena",
+			"description": "before Stonedigger Troll's arena",
 			"panel": "Limgrave Tunnels",
 			"areaFrom": "Limgrave Tunnels",
 			"areaTo": "Stonedigger Troll's arena",
@@ -169,7 +169,7 @@
 			"shuffled": true
 		},
 		"01113": {
-			"fullName": "at the front of Stonedigger Troll's arena",
+			"description": "at the front of Stonedigger Troll's arena",
 			"panel": "Limgrave Tunnels",
 			"areaFrom": "Ulcerated Tree Spirit's arena",
 			"areaTo": "Limgrave Tunnels",
@@ -183,7 +183,7 @@
 			"shuffled": true
 		},
 		"01114": {
-			"fullName": "at the entrance from Limgrave",
+			"description": "at the entrance from Limgrave",
 			"panel": "Stormfoot Catacombs",
 			"areaFrom": "Stormfoot Catacombs",
 			"areaTo": "Limgrave",
@@ -197,7 +197,7 @@
 			"shuffled": true
 		},
 		"01115": {
-			"fullName": "before Erdtree Burial Watchdog's arena",
+			"description": "before Erdtree Burial Watchdog's arena",
 			"panel": "Stormfoot Catacombs",
 			"areaFrom": "Stormfoot Catacombs",
 			"areaTo": "Erdtree Burial Watchdog's arena",
@@ -211,7 +211,7 @@
 			"shuffled": true
 		},
 		"01116": {
-			"fullName": "at the front of Erdtree Burial Watchdog's arena",
+			"description": "at the front of Erdtree Burial Watchdog's arena",
 			"panel": "Stormfoot Catacombs",
 			"areaFrom": "Erdtree Burial Watchdog's arena",
 			"areaTo": "Stormfoot Catacombs",
@@ -225,7 +225,7 @@
 			"shuffled": true
 		},
 		"01117": {
-			"fullName": "at the entrance from Limgrave",
+			"description": "at the entrance from Limgrave",
 			"panel": "Murkwater Cave",
 			"areaFrom": "Murkwater Cave",
 			"areaTo": "Limgrave",
@@ -239,7 +239,7 @@
 			"shuffled": true
 		},
 		"01118": {
-			"fullName": "before Patches' arena",
+			"description": "before Patches' arena",
 			"panel": "Murkwater Cave",
 			"areaFrom": "Murkwater Cave",
 			"areaTo": "Patches' arena",
@@ -253,7 +253,7 @@
 			"shuffled": true
 		},
 		"01119": {
-			"fullName": "at the front of Patches' arena",
+			"description": "at the front of Patches' arena",
 			"panel": "Murkwater Cave",
 			"areaFrom": "Patches' arena",
 			"areaTo": "Murkwater Cave",
@@ -267,7 +267,7 @@
 			"shuffled": true
 		},
 		"01120": {
-			"fullName": "opening the transporter chest in Patches' room",
+			"description": "opening the transporter chest in Patches' room",
 			"panel": "Warps",
 			"areaFrom": "Murkwater Cave",
 			"areaTo": "Mistwood",
@@ -281,7 +281,7 @@
 			"shuffled": true
 		},
 		"01121": {
-			"fullName": "at the entrance from Limgrave",
+			"description": "at the entrance from Limgrave",
 			"panel": "Murkwater Catacombs",
 			"areaFrom": "Murkwater Catacombs",
 			"areaTo": "Limgrave",
@@ -295,7 +295,7 @@
 			"shuffled": true
 		},
 		"01122": {
-			"fullName": "before Grave Warden Duelist's arena",
+			"description": "before Grave Warden Duelist's arena",
 			"panel": "Murkwater Catacombs",
 			"areaFrom": "Murkwater Catacombs",
 			"areaTo": "Grave Warden Duelist's arena",
@@ -309,7 +309,7 @@
 			"shuffled": true
 		},
 		"01123": {
-			"fullName": "at the front of Grave Warden Duelist's arena",
+			"description": "at the front of Grave Warden Duelist's arena",
 			"panel": "Murkwater Catacombs",
 			"areaFrom": "Grave Warden Duelist's arena",
 			"areaTo": "Murkwater Catacombs",
@@ -323,7 +323,7 @@
 			"shuffled": true
 		},
 		"01124": {
-			"fullName": "at the entrance from Limgrave",
+			"description": "at the entrance from Limgrave",
 			"panel": "Highroad Cave",
 			"areaFrom": "Highroad Cave",
 			"areaTo": "Limgrave",
@@ -337,7 +337,7 @@
 			"shuffled": true
 		},
 		"01125": {
-			"fullName": "before Guardian Golem's arena",
+			"description": "before Guardian Golem's arena",
 			"panel": "Highroad Cave",
 			"areaFrom": "Highroad Cave",
 			"areaTo": "Guardian Golem's arena",
@@ -351,7 +351,7 @@
 			"shuffled": true
 		},
 		"01126": {
-			"fullName": "at the front of Guardian Golem's arena",
+			"description": "at the front of Guardian Golem's arena",
 			"panel": "Highroad Cave",
 			"areaFrom": "Guardian Golem's arena",
 			"areaTo": "Highroad Cave",
@@ -365,7 +365,7 @@
 			"shuffled": true
 		},
 		"01127": {
-			"fullName": "at the front of Mad Pumpkin Head's arena",
+			"description": "at the front of Mad Pumpkin Head's arena",
 			"panel": "Waypoint Ruins",
 			"areaFrom": "Mad Pumpkin Head's arena",
 			"areaTo": "Waypoint Ruins",
@@ -379,7 +379,7 @@
 			"shuffled": true
 		},
 		"01128": {
-			"fullName": "at the back of Mad Pumpkin Head's arena",
+			"description": "at the back of Mad Pumpkin Head's arena",
 			"panel": "Waypoint Ruins",
 			"areaFrom": "Mad Pumpkin Head's arena",
 			"areaTo": "Sellen's room",
@@ -393,7 +393,7 @@
 			"shuffled": true
 		},
 		"01129": {
-			"fullName": "after Mad Pumpkin Head's arena in Waypoint Ruins",
+			"description": "after Mad Pumpkin Head's arena in Waypoint Ruins",
 			"panel": "Waypoint Ruins",
 			"areaFrom": "Sellen's room",
 			"areaTo": "Mad Pumpkin Head's arena",
@@ -407,7 +407,7 @@
 			"shuffled": true
 		},
 		"09101": {
-			"fullName": "entering a new evergaol-style object in Groveside Cave",
+			"description": "entering a new evergaol-style object in Groveside Cave",
 			"panel": "Groveside Cave",
 			"areaFrom": "Groveside Cave",
 			"areaTo": "Groveside Cave Evergaol",
@@ -421,7 +421,7 @@
 			"shuffled": true
 		},
 		"09102": {
-			"fullName": "entering a new evergaol-style object in Stormfoot Catacombs",
+			"description": "entering a new evergaol-style object in Stormfoot Catacombs",
 			"panel": "Stormfoot Catacombs",
 			"areaFrom": "Stormfoot Catacombs",
 			"areaTo": "Stormfoot Catacombs Evergaol",
@@ -435,7 +435,7 @@
 			"shuffled": true
 		},
 		"09103": {
-			"fullName": "entering a new evergaol-style object in Murkwater Cave",
+			"description": "entering a new evergaol-style object in Murkwater Cave",
 			"panel": "Murkwater Cave",
 			"areaFrom": "Murkwater Cave",
 			"areaTo": "Murkwater Cave Evergaol",
@@ -449,7 +449,7 @@
 			"shuffled": true
 		},
 		"09104": {
-			"fullName": "entering a new evergaol-style object in Murkwater Catacombs",
+			"description": "entering a new evergaol-style object in Murkwater Catacombs",
 			"panel": "Murkwater Catacombs",
 			"areaFrom": "Murkwater Catacombs",
 			"areaTo": "Murkwater Catacombs Evergaol",
@@ -463,7 +463,7 @@
 			"shuffled": true
 		},
 		"09105": {
-			"fullName": "entering a new evergaol-style object in Highroad Cave",
+			"description": "entering a new evergaol-style object in Highroad Cave",
 			"panel": "Highroad Cave",
 			"areaFrom": "Highroad Cave",
 			"areaTo": "Highroad Cave Evergaol",

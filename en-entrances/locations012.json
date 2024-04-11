@@ -1,7 +1,7 @@
 {
 	"entrances": {
 		"01201": {
-			"fullName": "before Margit's arena",
+			"description": "before Margit's arena",
 			"panel": "Stormhill",
 			"areaFrom": "Stormhill",
 			"areaTo": "Margit's arena",
@@ -14,7 +14,7 @@
 			"shuffled": true
 		},
 		"01202": {
-			"fullName": "along the side path to Liurnia, go backwards by double-jumping to a Torrent-sized nook to the left of the ruined bridge pillar",
+			"description": "along the side path to Liurnia, go backwards by double-jumping to a Torrent-sized nook to the left of the ruined bridge pillar",
 			"panel": "Stormhill",
 			"areaFrom": "Stormhill",
 			"areaTo": "Liurnia",
@@ -27,7 +27,7 @@
 			"shuffled": true
 		},
 		"01203": {
-			"fullName": "at the entrance to Limgrave Colosseum",
+			"description": "at the entrance to Limgrave Colosseum",
 			"panel": "Stormhill",
 			"areaFrom": "Stormhill",
 			"areaTo": "Limgrave Colosseum",
@@ -40,7 +40,7 @@
 			"shuffled": true
 		},
 		"01204": {
-			"fullName": "at the entrance to Deathtouched Catacombs",
+			"description": "at the entrance to Deathtouched Catacombs",
 			"panel": "Stormhill",
 			"areaFrom": "Stormhill",
 			"areaTo": "Deathtouched Catacombs",
@@ -53,7 +53,7 @@
 			"shuffled": true
 		},
 		"01205": {
-			"fullName": "entering Stormhill Evergaol",
+			"description": "entering Stormhill Evergaol",
 			"panel": "Stormhill",
 			"areaFrom": "Stormhill",
 			"areaTo": "Stormhill Evergaol",
@@ -66,7 +66,7 @@
 			"shuffled": true
 		},
 		"01206": {
-			"fullName": "at the front of Margit's arena",
+			"description": "at the front of Margit's arena",
 			"panel": "Stormhill",
 			"areaFrom": "Margit's Arena",
 			"areaTo": "Stormhill",
@@ -79,7 +79,7 @@
 			"shuffled": true
 		},
 		"01207": {
-			"fullName": "at the back of Margit's arena",
+			"description": "at the back of Margit's arena",
 			"panel": "Stormhill",
 			"areaFrom": "Margit's Arena",
 			"areaTo": "Stormveil Castle",
@@ -92,7 +92,7 @@
 			"shuffled": true
 		},
 		"01211": {
-			"fullName": "after Margit's arena",
+			"description": "after Margit's arena",
 			"panel": "Stormveil Castle",
 			"areaFrom": "Stormveil Castle",
 			"areaTo": "Margit's arena",
@@ -105,7 +105,7 @@
 			"shuffled": true
 		},
 		"01212": {
-			"fullName": "before Godrick's arena",
+			"description": "before Godrick's arena",
 			"panel": "Stormveil Castle",
 			"areaFrom": "Stormveil Castle",
 			"areaTo": "Godrick's arena",
@@ -118,7 +118,7 @@
 			"shuffled": true
 		},
 		"01214": {
-			"fullName": "at the front of Godrick's arena",
+			"description": "at the front of Godrick's arena",
 			"panel": "Stormveil Castle",
 			"areaFrom": "Godrick's Arena",
 			"areaTo": "Stormveil Castle",
@@ -131,7 +131,7 @@
 			"shuffled": true
 		},
 		"01217": {
-			"fullName": "at the rear exit to Liurnia",
+			"description": "at the rear exit to Liurnia",
 			"panel": "Stormveil Castle",
 			"areaFrom": "Stormveil Castle Throne Room",
 			"areaTo": "Liurnia",
@@ -144,7 +144,7 @@
 			"shuffled": true
 		},
 		"01213": {
-			"fullName": "at the side path to Limgrave Divine Tower",
+			"description": "at the side path to Limgrave Divine Tower",
 			"panel": "Stormveil Castle",
 			"areaFrom": "Stormveil Castle",
 			"areaTo": "Divine Tower of Limgrave",
@@ -157,7 +157,7 @@
 			"shuffled": true
 		},
 		"01215": {
-			"fullName": "at the entrance from Stormveil Castle",
+			"description": "at the entrance from Stormveil Castle",
 			"panel": "Divine Tower of Limgrave",
 			"areaFrom": "Divine Tower of Limgrave",
 			"areaTo": "Stormveil Castle",
@@ -170,7 +170,7 @@
 			"shuffled": true
 		},
 		"01016": {
-			"fullName": "using the sending gate in the first half of the Divine Tower of Limgrave",
+			"description": "using the sending gate in the first half of the Divine Tower of Limgrave",
 			"panel": "Warps",
 			"areaFrom": "Divine Tower of Limgrave",
 			"areaTo": "Divine Tower of Limgrave 2nd half",
@@ -183,7 +183,7 @@
 			"shuffled": true
 		},
 		"01208": {
-			"fullName": "at the entrance from Stormhill",
+			"description": "at the entrance from Stormhill",
 			"panel": "Deathtouched Catacombs",
 			"areaFrom": "Deathtouched Catacombs",
 			"areaTo": "Stormhill",
@@ -196,7 +196,7 @@
 			"shuffled": true
 		},
 		"01209": {
-			"fullName": "before Black Knife Assassin's arena",
+			"description": "before Black Knife Assassin's arena",
 			"panel": "Deathtouched Catacombs",
 			"areaFrom": "Deathtouched Catacombs",
 			"areaTo": "Black Knife Assassin's arena",
@@ -209,7 +209,7 @@
 			"shuffled": true
 		},
 		"01210": {
-			"fullName": "at the front of Black Knife Assassin's arena",
+			"description": "at the front of Black Knife Assassin's arena",
 			"panel": "Deathtouched Catacombs",
 			"areaFrom": "Black Knife Assassin's arena",
 			"areaTo": "Deathtouched Catacombs",

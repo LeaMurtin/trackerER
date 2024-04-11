@@ -1,7 +1,7 @@
 {
 	"entrances": {
 		"00001": {
-			"fullName": "before Grafted Scion's arena",
+			"description": "before Grafted Scion's arena",
 			"panel": "Chapel of Anticipation",
 			"areaFrom": "Chapel of Anticipation",
 			"areaTo": "Grafted Scion's Arena",
@@ -15,7 +15,7 @@
 			"shuffled": true
 		},
 		"00002": {
-			"fullName": "using the Pureblood Knight's Medal from anywhere",
+			"description": "using the Pureblood Knight's Medal from anywhere",
 			"panel": "Warps",
 			"areaFrom": "",
 			"areaTo": "Mohgwyn Palace",
@@ -29,7 +29,7 @@
 			"shuffled": true
 		},
 		"00003": {
-			"fullName": "at the front of Grafted Scion's arena",
+			"description": "at the front of Grafted Scion's arena",
 			"panel": "Chapel of Anticipation",
 			"areaFrom": "Grafted Scion's Arena",
 			"areaTo": "Chapel of Anticipation",
@@ -43,7 +43,7 @@
 			"shuffled": true
 		},
 		"00004": {
-			"fullName": "at the side exit of Grafted Scion's arena",
+			"description": "at the side exit of Grafted Scion's arena",
 			"panel": "Chapel of Anticipation",
 			"areaFrom": "Grafted Scion's Arena",
 			"areaTo": "Chapel of Anticipation revisit",
@@ -57,7 +57,7 @@
 			"shuffled": true
 		},
 		"00005": {
-			"fullName": "after Grafted Scion's arena",
+			"description": "after Grafted Scion's arena",
 			"panel": "Chapel of Anticipation",
 			"areaFrom": "Chapel of Anticipation revisit",
 			"areaTo": "Grafted Scion's Arena",
